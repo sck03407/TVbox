@@ -1,0 +1,12 @@
+{
+    "files": [
+        {
+            "remote_url": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
+            "local_path": "config/CatVodSpider.json"
+        },
+        {
+            "remote_url": "https://raw.githubusercontent.com/yizo/ipv6-iptv/main/live.txt",
+            "local_path": "live/ipv6.txt"
+        }
+    ]
+}
