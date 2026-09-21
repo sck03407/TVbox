@@ -21,16 +21,12 @@
             "name": "饭太硬备用5"
         },
         {
-            "url": "https:\/\/2.nxog.eu.org\/tvbox\/cache\/1.html",
-            "name": "饭太硬备用6(欧歌线)"
+            "url": "https:\/\/cdn09022024.gitlink.org.cn\/api\/v1\/repos\/xxooo\/in\/raw\/in.bmp",
+            "name": "饭太硬江苏福建专用"
         },
         {
             "url": "https:\/\/play.iptv365.org\/%E6%91%B8%E9%B1%BC%E5%84%BF\/api.json",
             "name": "摸鱼"
-        },
-        {
-            "url": "https:\/\/2.nxog.eu.org\/tvbox\/cache\/10.html",
-            "name": "摸鱼(欧歌线)"
         },
         {
             "url": "https:\/\/gh-proxy.com\/https:\/\/raw.githubusercontent.com\/yoursmile66\/TVBox\/main\/XC.json",
@@ -45,10 +41,6 @@
             "name": "南风3"
         },
         {
-            "url": "https:\/\/2.nxog.eu.org\/tvbox\/cache\/20.html",
-            "name": "南风(欧歌线)"
-        },
-        {
             "url": "https:\/\/gh-proxy.com\/https:\/\/raw.githubusercontent.com\/yydfys\/yydf\/main\/yydf\/yydfjk.json",
             "name": "业余"
         },
@@ -57,16 +49,8 @@
             "name": "盒子迷"
         },
         {
-            "url": "https:\/\/by1.nxog.eu.org\/tvbox\/cache\/3.html",
-            "name": "盒子迷(欧歌线)"
-        },
-        {
             "url": "http:\/\/tvbox.王二小放牛娃.top",
             "name": "王二小"
-        },
-        {
-            "url": "https:\/\/2.nxog.eu.org\/tvbox\/cache\/8.html",
-            "name": "王二小(欧歌线)"
         },
         {
             "url": "https:\/\/gh-proxy.com\/https:\/\/raw.githubusercontent.com\/xyq254245\/xyqonlinerule\/main\/XYQTVBox.json",
@@ -101,10 +85,6 @@
             "name": "胜寒"
         },
         {
-            "url": "https:\/\/2.nxog.eu.org\/tvbox\/cache\/17.html",
-            "name": "胜寒(欧歌线)"
-        },
-        {
             "url": "https:\/\/api.hgyx.vip\/hgyx.json",
             "name": "HG"
         },
@@ -115,10 +95,6 @@
         {
             "url": "https:\/\/play.iptv365.org\/%E8%8F%9C%E5%A6%AE%E4%B8%9D\/api.json",
             "name": "菜妮丝2"
-        },
-        {
-            "url": "https:\/\/2.nxog.eu.org\/tvbox\/cache\/16.html",
-            "name": "菜妮丝(欧歌线)"
         },
         {
             "url": "https:\/\/jihulab.com\/ymz1231\/xymz\/-\/raw\/main\/ymz",
@@ -173,10 +149,6 @@
             "name": "月光宝盒"
         },
         {
-            "url": "http:\/\/ygbhbox.3vfree.club\/pg\/jsm.json",
-            "name": "宝盒没宝"
-        },
-        {
             "url": "https:\/\/9xi4o.tk\/tvbox.json",
             "name": "盐枭"
         },
@@ -193,10 +165,6 @@
             "name": "分享者"
         },
         {
-            "url": "https:\/\/2.nxog.eu.org\/tvbox\/cache\/12.html",
-            "name": "分享(欧歌线)"
-        },
-        {
             "url": "http:\/\/xhztv.top\/4k.json",
             "name": "盒子4K"
         },
@@ -209,28 +177,12 @@
             "name": "刘备"
         },
         {
-            "url": "https:\/\/2.nxog.eu.org\/tvbox\/cache\/7.html",
-            "name": "小米"
-        },
-        {
             "url": "http:\/\/xhztv.top\/xhz",
             "name": "小盒子"
         },
         {
-            "url": "https:\/\/2.nxog.eu.org\/tvbox\/cache\/18.html",
-            "name": "附马(欧歌线)"
-        },
-        {
-            "url": "https:\/\/2.nxog.eu.org\/\/\/tvbox\/cache\/7.html",
-            "name": "小米"
-        },
-        {
             "url": "https:\/\/play.iptv365.org\/%E5%B0%8F%E7%B1%B3\/api.json",
             "name": "小米2"
-        },
-        {
-            "url": "https:\/\/2.nxog.eu.org\/tvbox\/cache\/7.html",
-            "name": "小米(欧歌线)"
         },
         {
             "url": "https:\/\/ysys.lic10.cn\/ys\/",
@@ -265,56 +217,16 @@
             "name": "真心"
         },
         {
+            "url": "http:\/\/xn--z7x900a.net\/",
+            "name": "肥猫"
+        },
+        {
             "url": "https:\/\/play.iptv365.org\/%E8%82%A5%E7%8C%AB\/api.json",
             "name": "肥猫(临时)"
         },
         {
-            "url": "https:\/\/2.nxog.eu.org\/tvbox\/cache\/4.html",
-            "name": "肥猫(欧歌线)"
-        },
-        {
             "url": "http:\/\/xhztv.top\/dc\/%E7%A5%9E%E4%BB%99\/api.json",
             "name": "神仙"
-        },
-        {
-            "url": "https:\/\/xn--1vv1-rp5imh.v.nxog.top\/apitv.php?id=2",
-            "name": "光歌云盘(欧歌线)"
-        },
-        {
-            "url": "https:\/\/xn--1vv1-rp5imh.v.nxog.top\/apitv.php?id=5",
-            "name": "潇洒(欧歌线)"
-        },
-        {
-            "url": "https:\/\/xn--1vv1-rp5imh.v.nxog.top\/apitv.php?id=6",
-            "name": "东篱(欧歌线)"
-        },
-        {
-            "url": "https:\/\/2.nxog.eu.org\/tvbox\/cache\/11.html",
-            "name": "裤佬(欧歌线)"
-        },
-        {
-            "url": "https:\/\/xn--1vv1-rp5imh.v.nxog.top\/apitv.php?id=9",
-            "name": "PG(欧歌线)"
-        },
-        {
-            "url": "https:\/\/2.nxog.eu.org\/tvbox\/cache\/13.html",
-            "name": "多多(欧歌线)"
-        },
-        {
-            "url": "https:\/\/2.nxog.eu.org\/tvbox\/cache\/14.html",
-            "name": "七星(欧歌线)"
-        },
-        {
-            "url": "https:\/\/2.nxog.eu.org\/tvbox\/cache\/15.html",
-            "name": "真心(欧歌线)"
-        },
-        {
-            "url": "https:\/\/2.nxog.eu.org\/tvbox\/cache\/19.html",
-            "name": "小屋(欧歌线)"
-        },
-        {
-            "url": "https:\/\/2.nxog.eu.org\/tvbox\/cache\/21.html",
-            "name": "杰哥(欧歌线)"
         },
         {
             "url": "https:\/\/www.yingm.cc\/dm\/dm.json",
@@ -342,7 +254,7 @@
         },
         {
             "url": "https:\/\/gitlab.com\/lzc1021lzc\/hjfggzs.hjys\/-\/raw\/main\/hjys.free.json",
-            "name": "最后更新时间:20260520"
+            "name": "最后更新时间:20260919"
         }
     ]
 }
