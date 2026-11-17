@@ -13,8 +13,24 @@
             "local_path": "TV3.json"
         },
         {
-            "remote_url": "https://raw.githubusercontent.com/qist/tvbox/master/jsm.json",
+            "remote_url": "https://raw.githubusercontent.com/cluntop/tvbox/refs/heads/main/box.json",
             "local_path": "TV4.json"
+        },
+        {
+            "remote_url": "https://raw.githubusercontent.com/cluntop/tvbox/refs/heads/main/fun.json",
+            "local_path": "TV18+.json"
+        },
+        {
+            "remote_url": "https://raw.githubusercontent.com/funnyday-py/tvbox/refs/heads/main/deploy/tvbox.json",
+            "local_path": "TV5.json"
+        },
+        {
+            "remote_url": "https://raw.githubusercontent.com/HowKongFish/tvbox-json/refs/heads/main/merged.json",
+            "local_path": "TV6.json"
+        },  
+        {
+            "remote_url": "https://raw.githubusercontent.com/qist/tvbox/master/jsm.json",
+            "local_path": "TV7.json"
         }          
     ]
 }
