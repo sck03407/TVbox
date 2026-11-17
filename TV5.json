@@ -1,0 +1,1840 @@
+{
+ "sites": [
+  {
+   "key": "暴风",
+   "name": "暴风",
+   "type": 1,
+   "api": "https://bfzyapi.com/api.php/provide/vod"
+  },
+  {
+   "key": "New5327",
+   "name": "创享影视",
+   "type": 1,
+   "api": "http://ys.cxkjg.cn/api/provide/vod",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "Real360",
+   "name": "360资源",
+   "type": 1,
+   "api": "http://192.168.2.201:9979/360",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "jinying2",
+   "name": "金鹰资源",
+   "type": 1,
+   "api": "http://192.168.2.201:9979/jinying2",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "jisu",
+   "name": "极速资源",
+   "type": 1,
+   "api": "http://192.168.2.201:9979/jisu",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "建安采集",
+   "name": "影视 • 建安",
+   "type": 1,
+   "api": "http://154.219.117.232:9981/jacloudapi.php/provide/vod"
+  },
+  {
+   "key": "MaoTai",
+   "name": "茅台采集",
+   "type": 1,
+   "api": "https://caiji.maotaizy.cc/api.php/provide/vod/at/josn/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "非凡资源",
+   "name": "非凡资源",
+   "type": 1,
+   "api": "http://cj.ffzyapi.com/api.php/provide/vod/"
+  },
+  {
+   "key": "MD",
+   "name": "魔都",
+   "type": 1,
+   "api": "https://www.mdzyapi.com/api.php/provide/vod/?ac=list",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "KuaiChe",
+   "name": "快车资源",
+   "type": 1,
+   "api": "https://caiji.kuaichezy.org/api.php/provide/vod/?ac=list",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "天涯采集",
+   "name": "影视 • 天涯",
+   "type": 1,
+   "api": "http://tyyszy.com/api.php/provide/vod"
+  },
+  {
+   "key": "New5168",
+   "name": "bdzy资源",
+   "type": 1,
+   "api": "https://api.apibdzy.com/api.php/provide/vod?ac=list",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "GuangSU",
+   "name": "光速",
+   "type": 1,
+   "api": "https://api.guangsuapi.com/api.php/provide/vod/josn",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "LinagZi",
+   "name": "量子资源",
+   "type": 1,
+   "api": "https://cj.lziapi.com/api.php/provide/vod/?ac=list",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "HongNiu",
+   "name": "红牛资源",
+   "type": 1,
+   "api": "https://www.hongniuzy2.com/api.php/provide/vod/at/josn/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "HER",
+   "name": "黑木耳",
+   "type": 1,
+   "api": "https://api.yyzy-tv.vip/inc/apijson.php?ac=list",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "电影天堂",
+   "name": "影视 • 电影天堂",
+   "type": 1,
+   "api": "http://caiji.dyttzyapi.com/api.php/provide/vod"
+  },
+  {
+   "key": "csp_Bili",
+   "name": "哔哩合集",
+   "type": 3,
+   "api": "csp_Bili",
+   "searchable": 1,
+   "quickSearch": 1,
+   "playerType": 2
+  },
+  {
+   "key": "csp_Dm84",
+   "name": "动漫巴士",
+   "type": 3,
+   "api": "csp_Dm84",
+   "searchable": 1,
+   "quickSearch": 1,
+   "playerType": 2,
+   "ext": "https://dm84.net"
+  },
+  {
+   "key": "csp_FirstAid",
+   "name": "急救教学",
+   "type": 3,
+   "api": "csp_FirstAid",
+   "searchable": 0,
+   "quickSearch": 0
+  },
+  {
+   "key": "csp_Kugou",
+   "name": "酷狗音乐",
+   "type": 3,
+   "api": "csp_Kugou",
+   "searchable": 0,
+   "quickSearch": 0,
+   "playerType": 2,
+   "ext": {
+    "classes": [
+     {
+      "type_name": "酷狗",
+      "type_id": "kugou"
+     }
+    ]
+   }
+  },
+  {
+   "key": "csp_Douban",
+   "name": "豆瓣推荐",
+   "type": 3,
+   "api": "csp_Douban",
+   "searchable": 0
+  }
+ ],
+ "lives": [
+  {
+   "group": "央视频道",
+   "channels": [
+    {
+     "name": "CCTV1",
+     "urls": [
+      "http://173.208.212.130:8181/720p/cctv1.m3u8",
+      "http://139.227.221.147:9901/tsfile/live/0001_1.m3u8?key=txiptv"
+     ]
+    },
+    {
+     "name": "CCTV2",
+     "urls": [
+      "http://173.208.212.130:8181/720p/cctv2.m3u8",
+      "http://139.227.221.147:9901/tsfile/live/0002_1.m3u8?key=txiptv"
+     ]
+    },
+    {
+     "name": "CCTV3",
+     "urls": [
+      "http://173.208.212.130:8181/720p/cctv3.m3u8",
+      "http://139.227.221.147:9901/tsfile/live/0003_1.m3u8?key=txiptv"
+     ]
+    },
+    {
+     "name": "CCTV4",
+     "urls": [
+      "http://173.208.212.130:8181/720p/cctv4.m3u8",
+      "http://139.227.221.147:9901/tsfile/live/0004_1.m3u8?key=txiptv"
+     ]
+    },
+    {
+     "name": "CCTV5",
+     "urls": [
+      "http://173.208.212.130:8181/720p/cctv5.m3u8",
+      "http://139.227.221.147:9901/tsfile/live/0005_1.m3u8?key=txiptv"
+     ]
+    },
+    {
+     "name": "CCTV5+",
+     "urls": [
+      "http://173.208.212.130:8181/720p/cctv5p.m3u8"
+     ]
+    },
+    {
+     "name": "CCTV6",
+     "urls": [
+      "http://173.208.212.130:8181/720p/cctv6.m3u8",
+      "http://139.227.221.147:9901/tsfile/live/0006_1.m3u8?key=txiptv"
+     ]
+    },
+    {
+     "name": "CCTV7",
+     "urls": [
+      "http://173.208.212.130:8181/720p/cctv7.m3u8",
+      "http://139.227.221.147:9901/tsfile/live/0007_1.m3u8?key=txiptv"
+     ]
+    },
+    {
+     "name": "CCTV8",
+     "urls": [
+      "http://173.208.212.130:8181/720p/cctv8.m3u8",
+      "http://139.227.221.147:9901/tsfile/live/0008_1.m3u8?key=txiptv"
+     ]
+    },
+    {
+     "name": "CCTV9",
+     "urls": [
+      "http://173.208.212.130:8181/720p/cctv9.m3u8",
+      "http://139.227.221.147:9901/tsfile/live/0009_1.m3u8?key=txiptv"
+     ]
+    },
+    {
+     "name": "CCTV10",
+     "urls": [
+      "http://173.208.212.130:8181/720p/cctv10.m3u8",
+      "http://139.227.221.147:9901/tsfile/live/0010_1.m3u8?key=txiptv"
+     ]
+    },
+    {
+     "name": "CCTV11",
+     "urls": [
+      "http://173.208.212.130:8181/720p/cctv11.m3u8",
+      "http://139.227.221.147:9901/tsfile/live/0011_1.m3u8?key=txiptv"
+     ]
+    },
+    {
+     "name": "CCTV12",
+     "urls": [
+      "http://173.208.212.130:8181/720p/cctv12.m3u8",
+      "http://139.227.221.147:9901/tsfile/live/0012_1.m3u8?key=txiptv"
+     ]
+    },
+    {
+     "name": "CCTV13",
+     "urls": [
+      "http://173.208.212.130:8181/720p/cctv13.m3u8",
+      "http://139.227.221.147:9901/tsfile/live/0013_1.m3u8?key=txiptv"
+     ]
+    },
+    {
+     "name": "CCTV14",
+     "urls": [
+      "http://173.208.212.130:8181/720p/cctv14.m3u8",
+      "http://139.227.221.147:9901/tsfile/live/0014_1.m3u8?key=txiptv"
+     ]
+    },
+    {
+     "name": "CCTV15",
+     "urls": [
+      "http://173.208.212.130:8181/720p/cctv15.m3u8",
+      "http://139.227.221.147:9901/tsfile/live/0015_1.m3u8?key=txiptv"
+     ]
+    },
+    {
+     "name": "CCTV16",
+     "urls": [
+      "http://173.208.212.130:8181/720p/cctv16.m3u8"
+     ]
+    },
+    {
+     "name": "CCTV17",
+     "urls": [
+      "http://173.208.212.130:8181/720p/cctv17.m3u8"
+     ]
+    },
+    {
+     "name": "CCTV第一剧场",
+     "urls": [
+      "http://173.208.212.130:8181/720p/dyjc.m3u8"
+     ]
+    },
+    {
+     "name": "CCTV风云剧场",
+     "urls": [
+      "http://173.208.212.130:8181/720p/fyjc.m3u8"
+     ]
+    },
+    {
+     "name": "CCTV风云音乐",
+     "urls": [
+      "http://173.208.212.130:8181/720p/fyyy.m3u8"
+     ]
+    },
+    {
+     "name": "CCTV风云足球",
+     "urls": [
+      "http://173.208.212.130:8181/720p/fyzq.m3u8"
+     ]
+    },
+    {
+     "name": "CCTV怀旧剧场",
+     "urls": [
+      "http://173.208.212.130:8181/720p/hjjc.m3u8"
+     ]
+    },
+    {
+     "name": "CCTV女性时尚",
+     "urls": [
+      "http://173.208.212.130:8181/720p/nxss.m3u8"
+     ]
+    },
+    {
+     "name": "CCTV世界地理",
+     "urls": [
+      "http://173.208.212.130:8181/720p/sjdl.m3u8"
+     ]
+    },
+    {
+     "name": "CCTV卫生健康",
+     "urls": [
+      "http://173.208.212.130:8181/720p/wsjk.m3u8"
+     ]
+    },
+    {
+     "name": "CCTV央视文化精品",
+     "urls": [
+      "http://173.208.212.130:8181/720p/ysjp.m3u8"
+     ]
+    },
+    {
+     "name": "CCTV央视台球",
+     "urls": [
+      "http://173.208.212.130:8181/720p/ystq.m3u8"
+     ]
+    }
+   ]
+  },
+  {
+   "group": "卫视频道",
+   "channels": [
+    {
+     "name": "安徽卫视",
+     "urls": [
+      "http://173.208.212.130:8181/720p/ahws.m3u8",
+      "http://139.227.221.147:9901/tsfile/live/0130_1.m3u8?key=txiptv"
+     ]
+    },
+    {
+     "name": "北京卫视",
+     "urls": [
+      "http://173.208.212.130:8181/720p/bjws.m3u8",
+      "http://139.227.221.147:9901/tsfile/live/0122_1.m3u8?key=txiptv"
+     ]
+    },
+    {
+     "name": "重庆卫视",
+     "urls": [
+      "http://139.227.221.147:9901/tsfile/live/0142_1.m3u8?key=txiptv"
+     ]
+    },
+    {
+     "name": "东方卫视",
+     "urls": [
+      "http://173.208.212.130:8181/720p/dfws.m3u8",
+      "http://139.227.221.147:9901/tsfile/live/0107_1.m3u8?key=txiptv"
+     ]
+    },
+    {
+     "name": "东南卫视",
+     "urls": [
+      "http://139.227.221.147:9901/tsfile/live/0137_1.m3u8?key=txiptv"
+     ]
+    },
+    {
+     "name": "广东卫视",
+     "urls": [
+      "http://173.208.212.130:8181/720p/gdws.m3u8",
+      "http://139.227.221.147:9901/tsfile/live/0125_1.m3u8?key=txiptv"
+     ]
+    },
+    {
+     "name": "河北卫视",
+     "urls": [
+      "http://173.208.212.130:8181/720p/hews.m3u8",
+      "http://139.227.221.147:9901/tsfile/live/0117_1.m3u8?key=txiptv"
+     ]
+    },
+    {
+     "name": "河南卫视",
+     "urls": [
+      "http://173.208.212.130:8181/720p/haws.m3u8"
+     ]
+    },
+    {
+     "name": "湖北卫视",
+     "urls": [
+      "http://139.227.221.147:9901/tsfile/live/0132_1.m3u8?key=txiptv"
+     ]
+    },
+    {
+     "name": "湖南卫视",
+     "urls": [
+      "http://173.208.212.130:8181/720p/hnws.m3u8",
+      "http://139.227.221.147:9901/tsfile/live/0128_1.m3u8?key=txiptv"
+     ]
+    },
+    {
+     "name": "江苏卫视",
+     "urls": [
+      "http://173.208.212.130:8181/720p/jsws.m3u8",
+      "http://139.227.221.147:9901/tsfile/live/0127_1.m3u8?key=txiptv"
+     ]
+    },
+    {
+     "name": "辽宁卫视",
+     "urls": [
+      "http://139.227.221.147:9901/tsfile/live/0121_1.m3u8?key=txiptv"
+     ]
+    },
+    {
+     "name": "山东卫视",
+     "urls": [
+      "http://173.208.212.130:8181/720p/sdws.m3u8",
+      "http://139.227.221.147:9901/tsfile/live/0131_1.m3u8?key=txiptv"
+     ]
+    },
+    {
+     "name": "深圳卫视",
+     "urls": [
+      "http://173.208.212.130:8181/720p/szws.m3u8",
+      "http://139.227.221.147:9901/tsfile/live/0126_1.m3u8?key=txiptv"
+     ]
+    },
+    {
+     "name": "天津卫视",
+     "urls": [
+      "http://173.208.212.130:8181/720p/tjws.m3u8",
+      "http://139.227.221.147:9901/tsfile/live/0135_1.m3u8?key=txiptv"
+     ]
+    },
+    {
+     "name": "浙江卫视",
+     "urls": [
+      "http://173.208.212.130:8181/720p/zjws.m3u8",
+      "http://139.227.221.147:9901/tsfile/live/0124_1.m3u8?key=txiptv"
+     ]
+    },
+    {
+     "name": "旅游卫视",
+     "urls": [
+      "http://139.227.221.147:9901/tsfile/live/0114_1.m3u8?key=txiptv"
+     ]
+    }
+   ]
+  },
+  {
+   "group": "睛彩频道",
+   "channels": [
+    {
+     "name": "睛彩广场舞",
+     "urls": [
+      "http://gslbserv.itv.cmvideo.cn:80/3000000020000011523/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=YanG-1989",
+      "http://gslbserv.itv.cmvideo.cn:80/3000000020000011523/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=BingCha"
+     ]
+    },
+    {
+     "name": "睛彩竞技",
+     "urls": [
+      "http://gslbserv.itv.cmvideo.cn:80/3000000020000011528/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=YanG-1989",
+      "http://gslbserv.itv.cmvideo.cn:80/3000000020000011528/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=BingCha"
+     ]
+    },
+    {
+     "name": "睛彩篮球",
+     "urls": [
+      "http://gslbserv.itv.cmvideo.cn:80/3000000020000011529/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=YanG-1989",
+      "http://gslbserv.itv.cmvideo.cn:80/3000000020000011529/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=BingCha"
+     ]
+    },
+    {
+     "name": "睛彩青少",
+     "urls": [
+      "http://gslbserv.itv.cmvideo.cn:80/3000000020000011525/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=YanG-1989",
+      "http://gslbserv.itv.cmvideo.cn:80/3000000020000011525/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=BingCha"
+     ]
+    }
+   ]
+  },
+  {
+   "group": "咪视界",
+   "channels": [
+    {
+     "name": "咪视界4K-1",
+     "urls": [
+      "http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=YanG-1989",
+      "http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=BingCha"
+     ]
+    },
+    {
+     "name": "咪视界4K-2",
+     "urls": [
+      "http://gslbserv.itv.cmvideo.cn:80/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=YanG-1989",
+      "http://gslbserv.itv.cmvideo.cn:80/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=BingCha"
+     ]
+    },
+    {
+     "name": "咪视界1",
+     "urls": [
+      "http://gslbserv.itv.cmvideo.cn:80/3000000001000005308/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=YanG-1989",
+      "http://gslbserv.itv.cmvideo.cn:80/3000000001000005308/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=BingCha"
+     ]
+    },
+    {
+     "name": "咪视界2",
+     "urls": [
+      "http://gslbserv.itv.cmvideo.cn:80/3000000001000005969/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=YanG-1989",
+      "http://gslbserv.itv.cmvideo.cn:80/3000000001000005969/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=BingCha"
+     ]
+    },
+    {
+     "name": "咪视界3",
+     "urls": [
+      "http://gslbserv.itv.cmvideo.cn:80/3000000001000007218/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=YanG-1989",
+      "http://gslbserv.itv.cmvideo.cn:80/3000000001000007218/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=BingCha"
+     ]
+    },
+    {
+     "name": "咪视界4",
+     "urls": [
+      "http://gslbserv.itv.cmvideo.cn:80/3000000001000008001/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008001&livemode=1&stbId=YanG-1989",
+      "http://gslbserv.itv.cmvideo.cn:80/3000000001000008001/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008001&livemode=1&stbId=BingCha"
+     ]
+    },
+    {
+     "name": "咪视界5",
+     "urls": [
+      "http://gslbserv.itv.cmvideo.cn:80/3000000001000008176/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008176&livemode=1&stbId=YanG-1989",
+      "http://gslbserv.itv.cmvideo.cn:80/3000000001000008176/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008176&livemode=1&stbId=BingCha"
+     ]
+    },
+    {
+     "name": "咪视界6",
+     "urls": [
+      "http://gslbserv.itv.cmvideo.cn:80/3000000001000008379/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008379&livemode=1&stbId=YanG-1989",
+      "http://gslbserv.itv.cmvideo.cn:80/3000000001000008379/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008379&livemode=1&stbId=BingCha"
+     ]
+    },
+    {
+     "name": "咪视界7",
+     "urls": [
+      "http://gslbserv.itv.cmvideo.cn:80/3000000001000010129/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010129&livemode=1&stbId=YanG-1989",
+      "http://gslbserv.itv.cmvideo.cn:80/3000000001000010129/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010129&livemode=1&stbId=BingCha"
+     ]
+    },
+    {
+     "name": "咪视界8",
+     "urls": [
+      "http://gslbserv.itv.cmvideo.cn:80/3000000001000010948/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=YanG-1989",
+      "http://gslbserv.itv.cmvideo.cn:80/3000000001000010948/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=BingCha"
+     ]
+    },
+    {
+     "name": "咪视界9",
+     "urls": [
+      "http://gslbserv.itv.cmvideo.cn:80/3000000001000028638/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=YanG-1989",
+      "http://gslbserv.itv.cmvideo.cn:80/3000000001000028638/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=BingCha"
+     ]
+    },
+    {
+     "name": "咪视界10",
+     "urls": [
+      "http://gslbserv.itv.cmvideo.cn:80/3000000001000031494/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000031494&livemode=1&stbId=YanG-1989",
+      "http://gslbserv.itv.cmvideo.cn:80/3000000001000031494/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000031494&livemode=1&stbId=BingCha"
+     ]
+    },
+    {
+     "name": "咪视界11",
+     "urls": [
+      "http://gslbserv.itv.cmvideo.cn:80/3000000010000000097/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000000097&livemode=1&stbId=YanG-1989",
+      "http://gslbserv.itv.cmvideo.cn:80/3000000010000000097/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000000097&livemode=1&stbId=BingCha"
+     ]
+    },
+    {
+     "name": "咪视界12",
+     "urls": [
+      "http://gslbserv.itv.cmvideo.cn:80/3000000010000002019/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002019&livemode=1&stbId=YanG-1989",
+      "http://gslbserv.itv.cmvideo.cn:80/3000000010000002019/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002019&livemode=1&stbId=BingCha"
+     ]
+    },
+    {
+     "name": "咪视界13",
+     "urls": [
+      "http://gslbserv.itv.cmvideo.cn:80/3000000010000002809/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002809&livemode=1&stbId=YanG-1989",
+      "http://gslbserv.itv.cmvideo.cn:80/3000000010000002809/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002809&livemode=1&stbId=BingCha"
+     ]
+    },
+    {
+     "name": "咪视界14",
+     "urls": [
+      "http://gslbserv.itv.cmvideo.cn:80/3000000010000003915/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000003915&livemode=1&stbId=YanG-1989",
+      "http://gslbserv.itv.cmvideo.cn:80/3000000010000003915/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000003915&livemode=1&stbId=BingCha"
+     ]
+    },
+    {
+     "name": "咪视界15",
+     "urls": [
+      "http://gslbserv.itv.cmvideo.cn:80/3000000010000004193/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000004193&livemode=1&stbId=YanG-1989",
+      "http://gslbserv.itv.cmvideo.cn:80/3000000010000004193/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000004193&livemode=1&stbId=BingCha"
+     ]
+    },
+    {
+     "name": "咪视界16",
+     "urls": [
+      "http://gslbserv.itv.cmvideo.cn:80/3000000010000005837/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005837&livemode=1&stbId=YanG-1989",
+      "http://gslbserv.itv.cmvideo.cn:80/3000000010000005837/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005837&livemode=1&stbId=BingCha"
+     ]
+    },
+    {
+     "name": "咪视界17",
+     "urls": [
+      "http://gslbserv.itv.cmvideo.cn:80/3000000010000006077/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006077&livemode=1&stbId=YanG-1989",
+      "http://gslbserv.itv.cmvideo.cn:80/3000000010000006077/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006077&livemode=1&stbId=BingCha"
+     ]
+    },
+    {
+     "name": "咪视界18",
+     "urls": [
+      "http://gslbserv.itv.cmvideo.cn:80/3000000010000006658/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006658&livemode=1&stbId=YanG-1989",
+      "http://gslbserv.itv.cmvideo.cn:80/3000000010000006658/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006658&livemode=1&stbId=BingCha"
+     ]
+    },
+    {
+     "name": "咪视界19",
+     "urls": [
+      "http://gslbserv.itv.cmvideo.cn:80/3000000010000009788/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000009788&livemode=1&stbId=YanG-1989",
+      "http://gslbserv.itv.cmvideo.cn:80/3000000010000009788/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000009788&livemode=1&stbId=BingCha"
+     ]
+    },
+    {
+     "name": "咪视界20",
+     "urls": [
+      "http://gslbserv.itv.cmvideo.cn:80/3000000010000010833/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000010833&livemode=1&stbId=YanG-1989",
+      "http://gslbserv.itv.cmvideo.cn:80/3000000010000010833/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000010833&livemode=1&stbId=BingCha"
+     ]
+    },
+    {
+     "name": "咪视界21",
+     "urls": [
+      "http://gslbserv.itv.cmvideo.cn:80/3000000010000011297/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011297&livemode=1&stbId=YanG-1989",
+      "http://gslbserv.itv.cmvideo.cn:80/3000000010000011297/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011297&livemode=1&stbId=BingCha"
+     ]
+    },
+    {
+     "name": "咪视界22",
+     "urls": [
+      "http://gslbserv.itv.cmvideo.cn:80/3000000010000011518/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011518&livemode=1&stbId=YanG-1989",
+      "http://gslbserv.itv.cmvideo.cn:80/3000000010000011518/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011518&livemode=1&stbId=BingCha"
+     ]
+    },
+    {
+     "name": "咪视界23",
+     "urls": [
+      "http://gslbserv.itv.cmvideo.cn:80/3000000010000012558/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012558&livemode=1&stbId=YanG-1989",
+      "http://gslbserv.itv.cmvideo.cn:80/3000000010000012558/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012558&livemode=1&stbId=BingCha"
+     ]
+    }
+   ]
+  },
+  {
+   "group": "历年春晚",
+   "channels": [
+    {
+     "name": "春晚1987",
+     "urls": [
+      "https://txmov2.a.kwimgs.com/bs3/video-hls/5195746663405928031_hlsb.m3u8"
+     ]
+    },
+    {
+     "name": "春晚1988",
+     "urls": [
+      "https://txmov2.a.kwimgs.com/bs3/video-hls/5216575810935394655_hlsb.m3u8"
+     ]
+    },
+    {
+     "name": "春晚1989",
+     "urls": [
+      "https://txmov2.a.kwimgs.com/bs3/video-hls/5194620763762726260_hlsb.m3u8"
+     ]
+    },
+    {
+     "name": "春晚1990",
+     "urls": [
+      "https://cdn8.yzzy-online.com/20220704/597_e0d90c37/1000k/hls/index.m3u8"
+     ]
+    },
+    {
+     "name": "春晚1992",
+     "urls": [
+      "https://txmov2.a.kwimgs.com/bs3/video-hls/5256826755663896297_hlshd15.m3u8"
+     ]
+    },
+    {
+     "name": "春晚1997",
+     "urls": [
+      "https://txmov2.a.kwimgs.com/bs3/video-hls/5230649583590411879_hlshd15.m3u8"
+     ]
+    },
+    {
+     "name": "春晚1998",
+     "urls": [
+      "https://txmov2.a.kwimgs.com/bs3/video-hls/5225864507896315430_hlshd15.m3u8"
+     ]
+    },
+    {
+     "name": "春晚2008",
+     "urls": [
+      "https://txmov2.a.kwimgs.com/bs3/video-hls/5210946337266019890_hlshd15.m3u8"
+     ]
+    },
+    {
+     "name": "春晚2011",
+     "urls": [
+      "https://txmov2.a.kwimgs.com/bs3/video-hls/5243597434070590481_hlshd15.m3u8"
+     ]
+    },
+    {
+     "name": "春晚2012",
+     "urls": [
+      "https://cdn8.yzzy-online.com/20220704/591_82b72f82/1000k/hls/index.m3u8"
+     ]
+    },
+    {
+     "name": "春晚2016",
+     "urls": [
+      "https://cdn8.yzzy-online.com/20220704/577_cda9c8d1/1000k/hls/index.m3u8"
+     ]
+    },
+    {
+     "name": "春晚2023",
+     "urls": [
+      "https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8"
+     ]
+    },
+    {
+     "name": "春晚2024",
+     "urls": [
+      "https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8"
+     ]
+    },
+    {
+     "name": "春晚2025",
+     "urls": [
+      "https://res.cctvnews.cctv.com/video/3005/record/cctv/merge1/133396667284143308839013005/8fbd6180bdef4da19f6155cf6b4652e1-4.m3u8",
+      "https://svip.high24-playback.com/20250129/17159_7bca93c4/2000k/hls/mixed.m3u8",
+      "https://svipsvip.ffzyread1.com/20250129/35458_c988286f/index.m3u8"
+     ]
+    }
+   ]
+  },
+  {
+   "group": "轮播",
+   "channels": [
+    {
+     "name": "成龙",
+     "urls": [
+      "http://63.141.230.178:82/gslb/zbdq5.m3u8?id=lbcl",
+      "http://107.150.60.122/live/lbcl.m3u8"
+     ]
+    },
+    {
+     "name": "周润发",
+     "urls": [
+      "http://63.141.230.178:82/gslb/zbdq5.m3u8?id=lbzrf",
+      "http://107.150.60.122/live/lbzrf.m3u8"
+     ]
+    },
+    {
+     "name": "周星驰",
+     "urls": [
+      "http://107.150.60.122/live/lbzxc.m3u8"
+     ]
+    },
+    {
+     "name": "林正英",
+     "urls": [
+      "http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hylzy",
+      "http://107.150.60.122/live/lblzy.m3u8"
+     ]
+    },
+    {
+     "name": "陈翔六点半",
+     "urls": [
+      "http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hycxldb"
+     ]
+    },
+    {
+     "name": "邵氏1",
+     "urls": [
+      "http://63.141.230.178:82/gslb/zbdq5.m3u8?id=lbsswx"
+     ]
+    },
+    {
+     "name": "邵氏2",
+     "urls": [
+      "http://63.141.230.178:82/gslb/zbdq5.m3u8?id=lbssdz"
+     ]
+    },
+    {
+     "name": "邵氏3",
+     "urls": [
+      "http://63.141.230.178:82/gslb/zbdq5.m3u8?id=lbssxj"
+     ]
+    }
+   ]
+  },
+  {
+   "group": "CCTV",
+   "channels": [
+    {
+     "name": "CCTV1",
+     "urls": [
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8",
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8",
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226514/index.m3u8",
+      "http://39.134.67.108/PLTV/88888888/224/3221225816/1.m3u8"
+     ]
+    },
+    {
+     "name": "CCTV2",
+     "urls": [
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8",
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8",
+      "http://39.134.67.108/PLTV/88888888/224/3221225599/1.m3u8"
+     ]
+    },
+    {
+     "name": "CCTV3",
+     "urls": [
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8",
+      "http://39.134.67.108/PLTV/88888888/224/3221225799/1.m3u8"
+     ]
+    },
+    {
+     "name": "CCTV4",
+     "urls": [
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8",
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226007/index.m3u8",
+      "http://39.134.67.108/PLTV/88888888/224/3221225797/1.m3u8"
+     ]
+    },
+    {
+     "name": "CCTV5",
+     "urls": [
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8",
+      "http://39.134.67.108/PLTV/88888888/224/3221225818/1.m3u8"
+     ]
+    },
+    {
+     "name": "CCTV5+",
+     "urls": [
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8",
+      "http://39.134.67.108/PLTV/88888888/224/3221225507/1.m3u8"
+     ]
+    },
+    {
+     "name": "CCTV6",
+     "urls": [
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8",
+      "http://39.134.67.108/PLTV/88888888/224/3221225814/1.m3u8"
+     ]
+    },
+    {
+     "name": "CCTV7",
+     "urls": [
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8",
+      "http://39.134.67.108/PLTV/88888888/224/3221225671/1.m3u8"
+     ]
+    },
+    {
+     "name": "CCTV8",
+     "urls": [
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8",
+      "http://39.134.67.108/PLTV/88888888/224/3221225795/1.m3u8"
+     ]
+    },
+    {
+     "name": "CCTV9",
+     "urls": [
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8",
+      "http://39.134.67.108/PLTV/88888888/224/3221225676/1.m3u8"
+     ]
+    },
+    {
+     "name": "CCTV10",
+     "urls": [
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8",
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226473/index.m3u8",
+      "http://39.134.67.108/PLTV/88888888/224/3221225677/1.m3u8"
+     ]
+    },
+    {
+     "name": "CCTV11",
+     "urls": [
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8",
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8",
+      "http://39.134.67.108/PLTV/88888888/224/3221225517/1.m3u8"
+     ]
+    },
+    {
+     "name": "CCTV12",
+     "urls": [
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8",
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226568/index.m3u8",
+      "http://39.134.67.108/PLTV/88888888/224/3221225669/1.m3u8"
+     ]
+    },
+    {
+     "name": "CCTV13",
+     "urls": [
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8",
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226571/index.m3u8",
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8",
+      "http://39.134.67.108/PLTV/88888888/224/3221225812/1.m3u8"
+     ]
+    },
+    {
+     "name": "CCTV14",
+     "urls": [
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8",
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226591/index.m3u8",
+      "http://39.134.67.108/PLTV/88888888/224/3221225674/1.m3u8"
+     ]
+    },
+    {
+     "name": "CCTV15",
+     "urls": [
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8",
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8",
+      "http://39.134.67.108/PLTV/88888888/224/3221225513/1.m3u8"
+     ]
+    },
+    {
+     "name": "CCTV16",
+     "urls": [
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8",
+      "http://39.134.67.108/PLTV/88888888/224/3221225893/1.m3u8"
+     ]
+    },
+    {
+     "name": "CCTV17",
+     "urls": [
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8",
+      "http://39.134.67.108/PLTV/88888888/224/3221225708/1.m3u8"
+     ]
+    },
+    {
+     "name": "CETV1",
+     "urls": [
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8",
+      "http://39.134.67.108/PLTV/88888888/224/3221225563/1.m3u8"
+     ]
+    },
+    {
+     "name": "CETV2",
+     "urls": [
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8"
+     ]
+    },
+    {
+     "name": "CETV4",
+     "urls": [
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8",
+      "http://39.134.67.108/PLTV/88888888/224/3221225750/1.m3u8"
+     ]
+    },
+    {
+     "name": "CGTN英语",
+     "urls": [
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225604/index.m3u8",
+      "http://39.134.67.108/PLTV/88888888/224/3221225510/1.m3u8"
+     ]
+    },
+    {
+     "name": "CGTN西语",
+     "urls": [
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226431/index.m3u8",
+      "https://livees.cgtn.com/1000e/prog_index.m3u8"
+     ]
+    },
+    {
+     "name": "CGTN俄语",
+     "urls": [
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226543/index.m3u8",
+      "https://liveru.cgtn.com/1000r/prog_index.m3u8"
+     ]
+    },
+    {
+     "name": "CGTN法语",
+     "urls": [
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226520/index.m3u8",
+      "https://livefr.cgtn.com/1000f/prog_index.m3u8"
+     ]
+    },
+    {
+     "name": "CGTN阿语",
+     "urls": [
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226517/index.m3u8",
+      "https://livear.cgtn.com/1000a/prog_index.m3u8"
+     ]
+    },
+    {
+     "name": "CGTN纪录",
+     "urls": [
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225602/index.m3u8",
+      "https://livedoc.cgtn.com/500d/prog_index.m3u8",
+      "http://39.134.67.108/PLTV/88888888/224/3221225509/1.m3u8"
+     ]
+    }
+   ]
+  },
+  {
+   "group": "卫视",
+   "channels": [
+    {
+     "name": "北京卫视",
+     "urls": [
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8",
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8",
+      "http://39.134.67.108/PLTV/88888888/224/3221225931/1.m3u8",
+      "http://39.134.65.179/PLTV/88888888/224/3221225678/1.m3u8",
+      "http://39.134.65.173/PLTV/88888888/224/3221225678/1.m3u8"
+     ]
+    },
+    {
+     "name": "天津卫视",
+     "urls": [
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8",
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8",
+      "http://39.134.67.108/PLTV/88888888/224/3221225972/1.m3u8"
+     ]
+    },
+    {
+     "name": "东南卫视",
+     "urls": [
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8",
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225620/index.m3u8",
+      "http://39.134.67.108/PLTV/88888888/224/3221225950/1.m3u8"
+     ]
+    },
+    {
+     "name": "东方卫视",
+     "urls": [
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8",
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8",
+      "http://39.134.67.108/PLTV/88888888/224/3221225942/1.m3u8",
+      "http://39.134.65.179/PLTV/88888888/224/3221225672/1.m3u8",
+      "http://39.134.65.173/PLTV/88888888/224/3221225672/1.m3u8",
+      "http://39.134.65.175/PLTV/88888888/224/3221225672/1.m3u8"
+     ]
+    },
+    {
+     "name": "江苏卫视",
+     "urls": [
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8",
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8",
+      "http://39.134.67.108/PLTV/88888888/224/3221225938/1.m3u8",
+      "http://39.134.65.175/PLTV/88888888/224/3221225503/1.m3u8",
+      "http://39.134.65.181/PLTV/88888888/224/3221225503/1.m3u8",
+      "http://39.134.65.183/PLTV/88888888/224/3221225503/1.m3u8",
+      "http://39.134.65.173/PLTV/88888888/224/3221225503/1.m3u8"
+     ]
+    },
+    {
+     "name": "浙江卫视",
+     "urls": [
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8",
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8",
+      "http://39.134.67.108/PLTV/88888888/224/3221225959/1.m3u8",
+      "http://39.134.65.162/PLTV/88888888/224/3221225514/1.m3u8",
+      "http://39.134.65.175/PLTV/88888888/224/3221225514/1.m3u8",
+      "http://39.134.65.179/PLTV/88888888/224/3221225514/1.m3u8",
+      "http://39.134.65.173/PLTV/88888888/224/3221225514/1.m3u8"
+     ]
+    },
+    {
+     "name": "安徽卫视",
+     "urls": [
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8",
+      "http://39.134.67.108/PLTV/88888888/224/3221225925/1.m3u8"
+     ]
+    },
+    {
+     "name": "河北卫视",
+     "urls": [
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8",
+      "http://39.134.67.108/PLTV/88888888/224/3221225961/1.m3u8"
+     ]
+    },
+    {
+     "name": "河南卫视",
+     "urls": [
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8"
+     ]
+    },
+    {
+     "name": "广东卫视",
+     "urls": [
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8",
+      "http://39.134.67.108/PLTV/88888888/224/3221225966/1.m3u8"
+     ]
+    },
+    {
+     "name": "深圳卫视",
+     "urls": [
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8",
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8",
+      "http://39.134.67.108/PLTV/88888888/224/3221225943/1.m3u8"
+     ]
+    },
+    {
+     "name": "湖北卫视",
+     "urls": [
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225627/index.m3u8",
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8",
+      "http://39.134.67.108/PLTV/88888888/224/3221225975/1.m3u8",
+      "http://39.134.65.162/PLTV/88888888/224/3221225569/1.m3u8"
+     ]
+    },
+    {
+     "name": "香港卫视",
+     "urls": [
+      "http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8"
+     ]
+    },
+    {
+     "name": "湖南卫视",
+     "urls": [
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8",
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8",
+      "http://39.134.65.181/PLTV/88888888/224/3221225506/1.m3u8",
+      "http://39.134.65.173/PLTV/88888888/224/3221225506/1.m3u8",
+      "http://39.134.65.183/PLTV/88888888/224/3221225506/1.m3u8",
+      "http://39.134.65.175/PLTV/88888888/224/3221225506/1.m3u8"
+     ]
+    },
+    {
+     "name": "四川卫视",
+     "urls": [
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8",
+      "http://39.134.67.108/PLTV/88888888/224/3221225970/1.m3u8"
+     ]
+    },
+    {
+     "name": "重庆卫视",
+     "urls": [
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8",
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225618/index.m3u8",
+      "http://39.134.67.108/PLTV/88888888/224/3221225963/1.m3u8"
+     ]
+    },
+    {
+     "name": "江西卫视",
+     "urls": [
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8",
+      "http://39.134.67.108/PLTV/88888888/224/3221225935/1.m3u8"
+     ]
+    },
+    {
+     "name": "山西卫视",
+     "urls": [
+      "http://liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true",
+      "http://39.134.67.108/PLTV/88888888/224/3221226009/1.m3u8"
+     ]
+    },
+    {
+     "name": "山东卫视",
+     "urls": [
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8",
+      "http://39.134.67.108/PLTV/88888888/224/3221225952/1.m3u8",
+      "http://39.134.65.141/PLTV/88888888/224/3221225952/1.m3u8"
+     ]
+    },
+    {
+     "name": "贵州卫视",
+     "urls": [
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8",
+      "http://39.134.67.108/PLTV/88888888/224/3221225974/1.m3u8",
+      "http://39.134.65.149/PLTV/88888888/224/3221225974/1.m3u8"
+     ]
+    },
+    {
+     "name": "海南卫视",
+     "urls": [
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8",
+      "http://39.134.67.108/PLTV/88888888/224/3221226026/1.m3u8"
+     ]
+    },
+    {
+     "name": "宁夏卫视",
+     "urls": [
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225632/index.m3u8",
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226454/index.m3u8"
+     ]
+    },
+    {
+     "name": "陕西卫视",
+     "urls": [
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226457/index.m3u8"
+     ]
+    },
+    {
+     "name": "吉林卫视",
+     "urls": [
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8",
+      "http://39.134.67.108/PLTV/88888888/224/3221226013/1.m3u8"
+     ]
+    },
+    {
+     "name": "辽宁卫视",
+     "urls": [
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8",
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225619/index.m3u8"
+     ]
+    },
+    {
+     "name": "西藏卫视",
+     "urls": [
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225638/index.m3u8",
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226433/index.m3u8",
+      "http://39.134.67.108/PLTV/88888888/224/3221225951/1.m3u8"
+     ]
+    },
+    {
+     "name": "内蒙古卫视",
+     "urls": [
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8",
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226389/index.m3u8"
+     ]
+    },
+    {
+     "name": "黑龙江卫视",
+     "urls": [
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8",
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226467/index.m3u8",
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226419/index.m3u8",
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226582/index.m3u8",
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226585/index.m3u8",
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226532/index.m3u8",
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226531/index.m3u8",
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226525/index.m3u8",
+      "http://39.134.67.108/PLTV/88888888/224/3221225994/1.m3u8"
+     ]
+    },
+    {
+     "name": "广西卫视",
+     "urls": [
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226549/index.m3u8",
+      "http://39.134.67.108/PLTV/88888888/224/3221226024/1.m3u8"
+     ]
+    }
+   ]
+  },
+  {
+   "group": "精品",
+   "channels": [
+    {
+     "name": "黑莓电影",
+     "urls": [
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8"
+     ]
+    },
+    {
+     "name": "黑莓动画",
+     "urls": [
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8"
+     ]
+    },
+    {
+     "name": "纪实人文",
+     "urls": [
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8"
+     ]
+    },
+    {
+     "name": "超级电视剧",
+     "urls": [
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8"
+     ]
+    },
+    {
+     "name": "超级电影",
+     "urls": [
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8"
+     ]
+    },
+    {
+     "name": "哒啵赛事",
+     "urls": [
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8"
+     ]
+    },
+    {
+     "name": "金牌综艺",
+     "urls": [
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8"
+     ]
+    },
+    {
+     "name": "精品体育",
+     "urls": [
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8"
+     ]
+    },
+    {
+     "name": "咪咕体育",
+     "urls": [
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8"
+     ]
+    },
+    {
+     "name": "爱情喜剧",
+     "urls": [
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8"
+     ]
+    },
+    {
+     "name": "精品萌宠",
+     "urls": [
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8"
+     ]
+    },
+    {
+     "name": "睛彩竞技",
+     "urls": [
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8",
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8",
+      "http://39.134.67.108/PLTV/88888888/224/3221225897/1.m3u8"
+     ]
+    },
+    {
+     "name": "睛彩篮球",
+     "urls": [
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8",
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8",
+      "http://39.134.67.108/PLTV/88888888/224/3221225895/1.m3u8"
+     ]
+    },
+    {
+     "name": "睛彩青少",
+     "urls": [
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8"
+     ]
+    },
+    {
+     "name": "卡酷少儿",
+     "urls": [
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8",
+      "http://39.134.67.108/PLTV/88888888/224/3221225562/1.m3u8"
+     ]
+    },
+    {
+     "name": "金鹰卡通",
+     "urls": [
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8"
+     ]
+    },
+    {
+     "name": "优漫卡通",
+     "urls": [
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8"
+     ]
+    },
+    {
+     "name": "哈哈炫动",
+     "urls": [
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8"
+     ]
+    },
+    {
+     "name": "超级体育",
+     "urls": [
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8"
+     ]
+    },
+    {
+     "name": "超级综艺",
+     "urls": [
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8"
+     ]
+    },
+    {
+     "name": "潮妈辣婆",
+     "urls": [
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8"
+     ]
+    },
+    {
+     "name": "东北热剧",
+     "urls": [
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8"
+     ]
+    },
+    {
+     "name": "动作电影",
+     "urls": [
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8"
+     ]
+    },
+    {
+     "name": "古装剧场",
+     "urls": [
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8"
+     ]
+    },
+    {
+     "name": "海外剧场",
+     "urls": [
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8"
+     ]
+    },
+    {
+     "name": "欢乐剧场",
+     "urls": [
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8"
+     ]
+    },
+    {
+     "name": "家庭剧场",
+     "urls": [
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8"
+     ]
+    },
+    {
+     "name": "惊悚悬疑",
+     "urls": [
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8"
+     ]
+    },
+    {
+     "name": "精品大剧",
+     "urls": [
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8"
+     ]
+    },
+    {
+     "name": "精品纪录",
+     "urls": [
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8"
+     ]
+    },
+    {
+     "name": "军旅剧场",
+     "urls": [
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8"
+     ]
+    },
+    {
+     "name": "军事评论",
+     "urls": [
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8"
+     ]
+    },
+    {
+     "name": "明星大片",
+     "urls": [
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8"
+     ]
+    },
+    {
+     "name": "农业致富",
+     "urls": [
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8"
+     ]
+    },
+    {
+     "name": "武搏世界",
+     "urls": [
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8"
+     ]
+    },
+    {
+     "name": "炫舞未来",
+     "urls": [
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8"
+     ]
+    },
+    {
+     "name": "怡伴健康",
+     "urls": [
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8"
+     ]
+    },
+    {
+     "name": "中国功夫",
+     "urls": [
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8"
+     ]
+    },
+    {
+     "name": "纪实科教",
+     "urls": [
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8"
+     ]
+    },
+    {
+     "name": "足球频道",
+     "urls": [
+      "https://nmglive.imfc.cn/5n1r1c/182396.m3u8"
+     ]
+    }
+   ]
+  }
+ ],
+ "parses": [],
+ "flags": [
+  "youku",
+  "qq",
+  "iqiyi",
+  "qiyi",
+  "letv",
+  "sohu",
+  "tudou",
+  "pptv",
+  "mgtv",
+  "wasu"
+ ],
+ "ads": [
+  "mimg.0c1q0l.cn",
+  "www.googletagmanager.com",
+  "www.google-analytics.com",
+  "mc.usihnbcq.cn",
+  "mg.g1mm3d.cn",
+  "mscs.svaeuzh.cn",
+  "cnzz.hhttm.top",
+  "tp.vinuxhome.com",
+  "cnzz.mmstat.com",
+  "www.baihuillq.com",
+  "s23.cnzz.com",
+  "z3.cnzz.com",
+  "c.cnzz.com",
+  "stj.v1vo.top",
+  "z12.cnzz.com",
+  "img.mosflower.cn",
+  "tips.gamevvip.com",
+  "ehwe.yhdtns.com",
+  "xdn.cqqc3.com",
+  "www.jixunkyy.cn",
+  "sp.chemacid.cn",
+  "hm.baidu.com",
+  "s9.cnzz.com",
+  "z6.cnzz.com",
+  "um.cavuc.com",
+  "mav.mavuz.com",
+  "wofwk.aoidf3.com",
+  "z5.cnzz.com",
+  "xc.hubeijieshikj.cn",
+  "tj.tianwenhu.com",
+  "xg.gars57.cn",
+  "k.jinxiuzhilv.com",
+  "cdn.bootcss.com",
+  "ppl.xunzhuo123.com",
+  "xomk.jiangjunmh.top",
+  "img.xunzhuo123.com",
+  "z1.cnzz.com",
+  "s13.cnzz.com",
+  "xg.huataisangao.cn",
+  "z7.cnzz.com",
+  "z2.cnzz.com",
+  "s96.cnzz.com",
+  "q11.cnzz.com",
+  "thy.dacedsfa.cn",
+  "xg.whsbpw.cn",
+  "s19.cnzz.com",
+  "z8.cnzz.com",
+  "s4.cnzz.com",
+  "f5w.as12df.top",
+  "ae01.alicdn.com",
+  "www.92424.cn",
+  "k.wudejia.com",
+  "vivovip.mmszxc.top",
+  "qiu.xixiqiu.com",
+  "cdnjs.hnfenxun.com",
+  "cms.qdwght.com",
+  "adservice.google.com",
+  "googleads.g.doubleclick.net",
+  "pagead2.googlesyndication.com",
+  "static.ads-twitter.com",
+  "adsystem.com",
+  "adnxs.com",
+  "rubiconproject.com",
+  "pubmatic.com",
+  "criteo.com",
+  "smartadserver.com",
+  "adform.net",
+  "scorecardresearch.com",
+  "hotjar.com",
+  "mixpanel.com",
+  "amplitude.com",
+  "segment.io",
+  "fullstory.com",
+  "adcolony.com",
+  "chartboost.com",
+  "unityads.unity3d.com",
+  "appsflyer.com",
+  "umeng.com",
+  "talkingdata.com",
+  "gtag.js",
+  "analytics.google.com",
+  "cdn.jsdelivr.net",
+  "polyfill.io",
+  "static.cdn.com",
+  "ad.baidu.com",
+  "pos.baidu.com",
+  "eclick.baidu.com",
+  "tanx.com",
+  "mmstat.com",
+  "zheli.mobi",
+  "adpush.com",
+  "adpush.me",
+  "admust.com",
+  "sdk.mobsdk.com",
+  "ad.qq.com",
+  "v.gdt.qq.com",
+  "img.ads.com"
+ ],
+ "ijk": [
+  {
+   "group": "软解码",
+   "options": [
+    {
+     "category": 4,
+     "name": "opensles",
+     "value": "0"
+    },
+    {
+     "category": 4,
+     "name": "overlay-format",
+     "value": "842225234"
+    },
+    {
+     "category": 4,
+     "name": "framedrop",
+     "value": "1"
+    },
+    {
+     "category": 4,
+     "name": "soundtouch",
+     "value": "1"
+    },
+    {
+     "category": 4,
+     "name": "start-on-prepared",
+     "value": "1"
+    },
+    {
+     "category": 1,
+     "name": "http-detect-range-support",
+     "value": "0"
+    },
+    {
+     "category": 1,
+     "name": "fflags",
+     "value": "fastseek"
+    },
+    {
+     "category": 2,
+     "name": "skip_loop_filter",
+     "value": "48"
+    },
+    {
+     "category": 4,
+     "name": "reconnect",
+     "value": "1"
+    },
+    {
+     "category": 4,
+     "name": "max-buffer-size",
+     "value": "5242880"
+    },
+    {
+     "category": 4,
+     "name": "enable-accurate-seek",
+     "value": "0"
+    },
+    {
+     "category": 4,
+     "name": "mediacodec",
+     "value": "0"
+    },
+    {
+     "category": 4,
+     "name": "mediacodec-auto-rotate",
+     "value": "0"
+    },
+    {
+     "category": 4,
+     "name": "mediacodec-handle-resolution-change",
+     "value": "0"
+    },
+    {
+     "category": 4,
+     "name": "mediacodec-hevc",
+     "value": "0"
+    }
+   ]
+  },
+  {
+   "group": "硬解码",
+   "options": [
+    {
+     "category": 4,
+     "name": "opensles",
+     "value": "0"
+    },
+    {
+     "category": 4,
+     "name": "overlay-format",
+     "value": "842225234"
+    },
+    {
+     "category": 4,
+     "name": "framedrop",
+     "value": "1"
+    },
+    {
+     "category": 4,
+     "name": "soundtouch",
+     "value": "1"
+    },
+    {
+     "category": 4,
+     "name": "start-on-prepared",
+     "value": "1"
+    },
+    {
+     "category": 1,
+     "name": "http-detect-range-support",
+     "value": "0"
+    },
+    {
+     "category": 1,
+     "name": "fflags",
+     "value": "fastseek"
+    },
+    {
+     "category": 2,
+     "name": "skip_loop_filter",
+     "value": "48"
+    },
+    {
+     "category": 4,
+     "name": "reconnect",
+     "value": "1"
+    },
+    {
+     "category": 4,
+     "name": "max-buffer-size",
+     "value": "5242880"
+    },
+    {
+     "category": 4,
+     "name": "enable-accurate-seek",
+     "value": "0"
+    },
+    {
+     "category": 4,
+     "name": "mediacodec",
+     "value": "1"
+    },
+    {
+     "category": 4,
+     "name": "mediacodec-auto-rotate",
+     "value": "1"
+    },
+    {
+     "category": 4,
+     "name": "mediacodec-handle-resolution-change",
+     "value": "1"
+    },
+    {
+     "category": 4,
+     "name": "mediacodec-hevc",
+     "value": "1"
+    }
+   ]
+  }
+ ],
+ "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/custom_spider.jar;md5;41c87635d7592069884a5dafa12acabe",
+ "ua": "Mozilla/5.0 (Linux; Android 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36 TVBox",
+ "header": {},
+ "wallpaper": "",
+ "rules": [],
+ "_generated_at": "2026-11-17 02:55:07 UTC",
+ "_generator": "build_config.py",
+ "_site_count": 22
+}
