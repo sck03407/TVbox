@@ -1553,6 +1553,2479 @@
      ]
     }
    ]
+  },
+  {
+   "group": "LibreTV·国内电视",
+   "channels": [
+    {
+     "name": "ABN China (720p)",
+     "urls": [
+      "https://mediaserver.abnvideos.com/streams/abnchina.m3u8"
+     ]
+    },
+    {
+     "name": "Ando TV (1080p)",
+     "urls": [
+      "http://play.kankanlive.com/live/1711956137852982.m3u8"
+     ]
+    },
+    {
+     "name": "Angel TV Chinese (720p)",
+     "urls": [
+      "https://janya-digimix.akamaized.net/vglive-sk-999451/chinese/ngrp:angelchinese_all/playlist.m3u8"
+     ]
+    },
+    {
+     "name": "Anhui TV",
+     "urls": [
+      "https://restream.pdtvhd.com/memfs/c1cd2ed0-3b2b-4c25-af98-a7fb0b1eb130.m3u8"
+     ]
+    },
+    {
+     "name": "Bingtuan Satellite TV (540p) [Not 24/7]",
+     "urls": [
+      "http://112.25.48.68/live/program/live/btws/1300000/mnf.m3u8"
+     ]
+    },
+    {
+     "name": "Bread TV (720p)",
+     "urls": [
+      "https://video.bread-tv.com:8091/hls-live24/online/index.m3u8"
+     ]
+    },
+    {
+     "name": "CCTV-8K HD (1080p)",
+     "urls": [
+      "http://192.151.150.154/live/cctv8k.m3u8"
+     ]
+    },
+    {
+     "name": "CCTV-Culture of Quality SD (1080p)",
+     "urls": [
+      "http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub"
+     ]
+    },
+    {
+     "name": "CHC Home Theater (1080p)",
+     "urls": [
+      "http://39.134.19.153/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/index.m3u8"
+     ]
+    },
+    {
+     "name": "Documentary Humanities Channel (1080p)",
+     "urls": [
+      "http://39.135.138.59:18890/PLTV/88888910/224/3221225655/index.m3u8"
+     ]
+    },
+    {
+     "name": "Dunhuang TV (1080p)",
+     "urls": [
+      "http://117.156.28.119/270000001111/1110000028/index.m3u8"
+     ]
+    },
+    {
+     "name": "Guangdong Satellite TV",
+     "urls": [
+      "https://h5cul1yar48um3t.wcetv.com/hls/gdsatellite.m3u8"
+     ]
+    },
+    {
+     "name": "High Channel TV (1080p)",
+     "urls": [
+      "http://117.156.28.119/270000001111/1110000146/index.m3u8"
+     ]
+    },
+    {
+     "name": "Hunan TV (2160p)",
+     "urls": [
+      "http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8"
+     ]
+    },
+    {
+     "name": "Jiangsu Satellite TV (1080p)",
+     "urls": [
+      "http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8"
+     ]
+    },
+    {
+     "name": "Jiangxi TV (1080p)",
+     "urls": [
+      "http://39.134.115.163:8080/PLTV/88888910/224/3221225705/index.m3u8"
+     ]
+    },
+    {
+     "name": "Nei Monggol TV (960p)",
+     "urls": [
+      "https://cdn4.skygo.mn/live/disk1/NeigMGL/HLSv3-FTA/NeigMGL.m3u8"
+     ]
+    },
+    {
+     "name": "Qianjiang Channel",
+     "urls": [
+      "rtmp://splay-qukan.cztv.com/live/1792059352668052?auth_key=1886667371-a351173879224e5fbbb4412bf9f96eff-0-de13c2186941a507a27a3438213d2169"
+     ]
+    },
+    {
+     "name": "Qinghai TV (576p)",
+     "urls": [
+      "http://39.134.115.163:8080/PLTV/88888910/224/3221225727/index.m3u8"
+     ]
+    },
+    {
+     "name": "Shandong TV (1080p)",
+     "urls": [
+      "http://39.134.115.163:8080/PLTV/88888910/224/3221225697/index.m3u8"
+     ]
+    },
+    {
+     "name": "Shandong TV Life Channel (1080p) [Geo-blocked]",
+     "urls": [
+      "http://livealone302.iqilu.com/iqilu/shpd.m3u8"
+     ]
+    },
+    {
+     "name": "Shandong TV Qilu Channel (1080p) [Geo-blocked]",
+     "urls": [
+      "http://livealone302.iqilu.com/iqilu/qlpd.m3u8"
+     ]
+    },
+    {
+     "name": "Shandong TV Variety Channel (406p) [Geo-blocked]",
+     "urls": [
+      "http://livealone302.iqilu.com/iqilu/zypd.m3u8"
+     ]
+    },
+    {
+     "name": "Shenzhen Satellite TV (2160p)",
+     "urls": [
+      "https://livepull-tcms.sztv.com.cn/live/sz4Kpgm.m3u8"
+     ]
+    },
+    {
+     "name": "Sichuan Satellite TV (576p)",
+     "urls": [
+      "http://39.134.115.163:8080/PLTV/88888910/224/3221225733/index.m3u8"
+     ]
+    },
+    {
+     "name": "Tianjin TV (1080p)",
+     "urls": [
+      "http://39.134.115.163:8080/PLTV/88888910/224/3221225698/index.m3u8"
+     ]
+    },
+    {
+     "name": "VoA TV China (1080p)",
+     "urls": [
+      "https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8"
+     ]
+    },
+    {
+     "name": "Xi'an Silk Road Channel (404p) [Not 24/7]",
+     "urls": [
+      "http://stream2.xiancity.cn/xatv5/playlist.m3u8"
+     ]
+    },
+    {
+     "name": "Xinjiang TV 1",
+     "urls": [
+      "https://klmysjtzb.rcsxzx.com/hls/klmy2.m3u8"
+     ]
+    },
+    {
+     "name": "Xinjiang TV 2",
+     "urls": [
+      "http://110.153.180.106:55555/out_3/index.m3u8"
+     ]
+    },
+    {
+     "name": "Xinjiang TV 3",
+     "urls": [
+      "http://110.153.180.106:55555/out_2/index.m3u8"
+     ]
+    },
+    {
+     "name": "Xinjiang TV 8",
+     "urls": [
+      "http://120.70.60.179:9901/tsfile/live/1002_1.m3u8?authid=0&key=txiptv&playlive=1"
+     ]
+    },
+    {
+     "name": "Xizang TV Chinese",
+     "urls": [
+      "https://pili-live-hls-zdzz-tv.zzxwcm.cn/zdzz-tv/nqzh.m3u8"
+     ]
+    },
+    {
+     "name": "Xizang TV Tibetan",
+     "urls": [
+      "https://live.vtibet.cn/live/ZYWS20261016.stream.m3u8"
+     ]
+    },
+    {
+     "name": "Yanbian Satellite TV (576p)",
+     "urls": [
+      "http://223.110.245.139/PLTV/4/224/3221227008/index.m3u8"
+     ]
+    },
+    {
+     "name": "Zhejiang International Channel",
+     "urls": [
+      "https://ali-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8"
+     ]
+    },
+    {
+     "name": "Zhejiang Minsheng Leisure",
+     "urls": [
+      "rtmp://splay-qukan.cztv.com/live/1792059771757250?auth_key=1886667772-951bbd2034684d73940470ed3eebc32a-0-adc4291abba5c186e3ead67a1683e790"
+     ]
+    },
+    {
+     "name": "Zhejiang Satellite TV (1080p)",
+     "urls": [
+      "http://39.134.115.163:8080/PLTV/88888910/224/3221225703/index.m3u8"
+     ]
+    },
+    {
+     "name": "Anshun Comprehensive News Channel",
+     "urls": [
+      "https://hplayer1.juyun.tv/camera/154379194.m3u8"
+     ]
+    },
+    {
+     "name": "CCTV+ 1 (600p) [Not 24/7]",
+     "urls": [
+      "https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8"
+     ]
+    },
+    {
+     "name": "CCTV+ 2 (600p) [Not 24/7]",
+     "urls": [
+      "https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8"
+     ]
+    },
+    {
+     "name": "CCTV-13 (720p)",
+     "urls": [
+      "http://74.91.26.218:82/live/cctv13hd.m3u8"
+     ]
+    },
+    {
+     "name": "CCTV-13 HD (1080p)",
+     "urls": [
+      "http://go.bkpcp.top/mg/cctv13"
+     ]
+    },
+    {
+     "name": "Chifeng Comprehensive News Chanel",
+     "urls": [
+      "http://play1-qk.nmtv.cn/live/1735546697341033.m3u8"
+     ]
+    },
+    {
+     "name": "Chuxiong News Channel [Not 24/7]",
+     "urls": [
+      "http://hwapi.yntv.net/ew265l/848y54.m3u8"
+     ]
+    },
+    {
+     "name": "Chuzhou News Channel (1080p)",
+     "urls": [
+      "http://live.cztv.cc:85/live/xwpd.m3u8"
+     ]
+    },
+    {
+     "name": "Dongguan Comprehensive News Channel",
+     "urls": [
+      "http://stream.sun0769.com/dgrtv1/mp4tv1_1500.flv"
+     ]
+    },
+    {
+     "name": "Harbin Comprehensive News Channel",
+     "urls": [
+      "https://stream.hrbtv.net/xwzh/playlist.m3u8?_upt=ef41dd531755913594"
+     ]
+    },
+    {
+     "name": "Hebi News Channel (480p) [Not 24/7]",
+     "urls": [
+      "http://pili-live-hls.hebitv.com/hebi/hebi.m3u8"
+     ]
+    },
+    {
+     "name": "Hunan News Channel [Geo-blocked]",
+     "urls": [
+      "http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_346.m3u8"
+     ]
+    }
+   ]
+  },
+  {
+   "group": "LibreTV·港澳台海外",
+   "channels": [
+    {
+     "name": "中视新闻",
+     "urls": [
+      "https://d2jc41c1shgcol.cloudfront.net/live/ctvnewsqt/playlist.m3u8"
+     ]
+    },
+    {
+     "name": "中天新闻",
+     "urls": [
+      "https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8"
+     ]
+    },
+    {
+     "name": "TVBS新闻",
+     "urls": [
+      "https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8"
+     ]
+    },
+    {
+     "name": "民视新闻",
+     "urls": [
+      "https://d2jc41c1shgcol.cloudfront.net/live/ftvnewsqt/playlist.m3u8"
+     ]
+    },
+    {
+     "name": "华视新闻",
+     "urls": [
+      "https://d2jc41c1shgcol.cloudfront.net/live/ctsnewsqt/playlist.m3u8"
+     ]
+    },
+    {
+     "name": "东森新闻",
+     "urls": [
+      "https://d2jc41c1shgcol.cloudfront.net/live/EBCNews/playlist.m3u8"
+     ]
+    },
+    {
+     "name": "三立新闻",
+     "urls": [
+      "https://d2jc41c1shgcol.cloudfront.net/live/iNEWS/playlist.m3u8"
+     ]
+    },
+    {
+     "name": "LIVE三立",
+     "urls": [
+      "https://d2jc41c1shgcol.cloudfront.net/live/setnewsrtmp/playlist.m3u8"
+     ]
+    },
+    {
+     "name": "NOW新闻台",
+     "urls": [
+      "http://cdn.123.rr.kg/163189/now"
+     ]
+    },
+    {
+     "name": "澳门莲花",
+     "urls": [
+      "http://cdn6.123.rr.kg/163189/amlh"
+     ]
+    },
+    {
+     "name": "澳门综艺",
+     "urls": [
+      "http://cdn6.123.rr.kg/163189/amzy"
+     ]
+    },
+    {
+     "name": "澳视卫星",
+     "urls": [
+      "http://cdn6.123.rr.kg/163189/as"
+     ]
+    },
+    {
+     "name": "澳视澳门",
+     "urls": [
+      "http://cdn6.123.rr.kg/163189/asam"
+     ]
+    },
+    {
+     "name": "澳门体育",
+     "urls": [
+      "http://cdn6.123.rr.kg/163189/amty"
+     ]
+    },
+    {
+     "name": "纬来体育",
+     "urls": [
+      "https://hlsz.yjjcfw.com/live/vl.m3u8?expire=1786948372&sign=2e4a56b89fe644db147552011f972714"
+     ]
+    },
+    {
+     "name": "TVB星河",
+     "urls": [
+      "https://cdn3.indevs.in/stream/live/tvbxh/"
+     ]
+    },
+    {
+     "name": "TVBPlus",
+     "urls": [
+      "https://cdn3.indevs.in/stream/tvb/tvbp/"
+     ]
+    },
+    {
+     "name": "明珠台",
+     "urls": [
+      "https://cdn3.indevs.in/stream/tvb/mzt/"
+     ]
+    },
+    {
+     "name": "翡翠台",
+     "urls": [
+      "https://cdn3.indevs.in/stream/tvb/fct/"
+     ]
+    },
+    {
+     "name": "天映频道",
+     "urls": [
+      "https://cdn3.indevs.in/stream/live/typd/"
+     ]
+    },
+    {
+     "name": "星影台",
+     "urls": [
+      "http://173.208.234.146/live/nowxy.m3u8"
+     ]
+    },
+    {
+     "name": "Astro AOD",
+     "urls": [
+      "https://cdn3.indevs.in/stream/live/aod/"
+     ]
+    },
+    {
+     "name": "Astro AEC",
+     "urls": [
+      "https://cdn3.indevs.in/stream/live/aec/"
+     ]
+    },
+    {
+     "name": "Astro 爱奇艺",
+     "urls": [
+      "https://cdn3.indevs.in/stream/live/iqiyi/"
+     ]
+    },
+    {
+     "name": "Astro 欢喜台",
+     "urls": [
+      "https://cdn3.indevs.in/stream/live/hxt/"
+     ]
+    },
+    {
+     "name": "CNN",
+     "urls": [
+      "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8"
+     ]
+    },
+    {
+     "name": "BBC News",
+     "urls": [
+      "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8"
+     ]
+    },
+    {
+     "name": "CNA",
+     "urls": [
+      "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8"
+     ]
+    },
+    {
+     "name": "GB News",
+     "urls": [
+      "https://rakutenaa-lightning-gbnews-rakuten-ccoa9.amagi.tv/playlist/rakutenAA-lightning-gbnews-rakuten/playlist.m3u8"
+     ]
+    },
+    {
+     "name": "ABC News",
+     "urls": [
+      "https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991626"
+     ]
+    },
+    {
+     "name": "RT News",
+     "urls": [
+      "https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8"
+     ]
+    },
+    {
+     "name": "TV Brics",
+     "urls": [
+      "https://chibrics.mediacdn.ru/cdn/brics/chinese/tracks-v1a1/mono.m3u8"
+     ]
+    },
+    {
+     "name": "NHK World",
+     "urls": [
+      "https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8"
+     ]
+    },
+    {
+     "name": "Sky News",
+     "urls": [
+      "https://d39chvnxm26pgp.cloudfront.net/v1/master/72588bff830dec7b26d7cbbf5f3c24928aec5c03/cc-sthen6ms4vxgv-stage/WNSFO/ABR.m3u8"
+     ]
+    },
+    {
+     "name": "TRT World",
+     "urls": [
+      "https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8"
+     ]
+    },
+    {
+     "name": "NEWSMAX",
+     "urls": [
+      "https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/3.m3u8"
+     ]
+    },
+    {
+     "name": "Reuters",
+     "urls": [
+      "https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/e7493ea5-5c1c-4d7a-a3f7-e95516048ad8/3.m3u8"
+     ]
+    },
+    {
+     "name": "Global News",
+     "urls": [
+      "https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b8/live.isml/.m3u8"
+     ]
+    },
+    {
+     "name": "NBC News Now",
+     "urls": [
+      "https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8"
+     ]
+    },
+    {
+     "name": "One American News",
+     "urls": [
+      "https://oneamericanews-roku-us.amagi.tv/playlistR1080p.m3u8"
+     ]
+    },
+    {
+     "name": "CGTN",
+     "urls": [
+      "https://english-livebkali.cgtn.com/live/encgtn_0.m3u8"
+     ]
+    },
+    {
+     "name": "CGTN Documentary",
+     "urls": [
+      "https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8"
+     ]
+    },
+    {
+     "name": "CGTN Russian",
+     "urls": [
+      "https://russian-liveali.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8"
+     ]
+    },
+    {
+     "name": "CGTN Francais",
+     "urls": [
+      "https://francais-liveali.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8"
+     ]
+    },
+    {
+     "name": "CGTN Espanol",
+     "urls": [
+      "https://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8"
+     ]
+    },
+    {
+     "name": "CGTN Arabic",
+     "urls": [
+      "https://arabic-liveali.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8"
+     ]
+    },
+    {
+     "name": "Trace Sport Stars",
+     "urls": [
+      "https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8"
+     ]
+    },
+    {
+     "name": "WION",
+     "urls": [
+      "https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8"
+     ]
+    },
+    {
+     "name": "Arirang",
+     "urls": [
+      "https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8"
+     ]
+    },
+    {
+     "name": "RT Documentary",
+     "urls": [
+      "https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8"
+     ]
+    }
+   ]
+  },
+  {
+   "group": "LibreTV·全球体育",
+   "channels": [
+    {
+     "name": "5Gold",
+     "urls": [
+      "https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_gold/live.livx/playlist.m3u8"
+     ]
+    },
+    {
+     "name": "5Live",
+     "urls": [
+      "https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_live/live.livx/playlist.m3u8"
+     ]
+    },
+    {
+     "name": "5Plus (1080p)",
+     "urls": [
+      "http://89.33.29.115:8080/sportplus/index.m3u8"
+     ]
+    },
+    {
+     "name": "5Sport 4K",
+     "urls": [
+      "https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_4k_avc/live.livx/playlist.m3u8"
+     ]
+    },
+    {
+     "name": "5Sport",
+     "urls": [
+      "https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5/live.livx/playlist.m3u8"
+     ]
+    },
+    {
+     "name": "5Stars (1080p)",
+     "urls": [
+      "http://89.33.29.115:8080/IL_5Stars/index.m3u8"
+     ]
+    },
+    {
+     "name": "30A Golf Kingdom (720p)",
+     "urls": [
+      "https://30a-tv.com/feeds/vidaa/golf.m3u8"
+     ]
+    },
+    {
+     "name": "A Spor SD (1080p)",
+     "urls": [
+      "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8"
+     ]
+    },
+    {
+     "name": "ACC Digital Network (1080p)",
+     "urls": [
+      "https://raycom-accdn-firetv.amagi.tv/playlist.m3u8"
+     ]
+    },
+    {
+     "name": "ACI Sport TV SD (1080p)",
+     "urls": [
+      "https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8"
+     ]
+    },
+    {
+     "name": "Adjarasport 1",
+     "urls": [
+      "https://live20.bozztv.com/dvrfl05/gin-adjara/index.m3u8"
+     ]
+    },
+    {
+     "name": "Adriatic Sport 1",
+     "urls": [
+      "http://sultanios.alwaysdata.net/vavo.php?ID=3645291205"
+     ]
+    },
+    {
+     "name": "Adriatic Sport 2",
+     "urls": [
+      "http://sultanios.alwaysdata.net/vavo.php?ID=2665922581"
+     ]
+    },
+    {
+     "name": "Adriatic Sport 3",
+     "urls": [
+      "http://sultanios.alwaysdata.net/vavo.php?ID=2743527845"
+     ]
+    },
+    {
+     "name": "Al Iraqia Sport (720p)",
+     "urls": [
+      "https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8"
+     ]
+    },
+    {
+     "name": "Alfa Sport (1080p) [Not 24/7]",
+     "urls": [
+      "https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqx"
+     ]
+    },
+    {
+     "name": "American Ninja Warrior (1080p)",
+     "urls": [
+      "https://d4whmvwm0rdvi.cloudfront.net/10007/99951318/hls/master.m3u8?ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_coppa=0&ads._fw_deviceMake=GitHubAction&ads._fw_deviceType=3-Connected_TV&ads._fw_device_model=PythonScript&ads._fw_did=a5090924-15b1-4b7f-b6cd-2f06e2ba51e1&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_vcid2=512116:a5090924-15b1-4b7f-b6cd-2f06e2ba51e1&ads.afid=405342864&ads.appName=XumoPlay&ads.appVersion=1.0.0&ads.asnw=169843&ads.channelId=99951318&ads.csid=xumo_web_NBCUAmericanNinjaWarrior_ssai_cro&ads.sfid=19647852&ads.xumo_channelId=99951318&ads.xumo_contentId=4063&ads.xumo_contentName=NBCUAmericanNinjaWarrior&ads.xumo_providerId=4063&ads.xumo_providerName=NBCUAmericanNinjaWarrior"
+     ]
+    },
+    {
+     "name": "AntenaPlay Events (576i) [Not 24/7]",
+     "urls": [
+      "https://live77cdn2.antenaplay.ro/live2_sport07/live2_sport07_3500k.m3u8"
+     ]
+    },
+    {
+     "name": "AntenaSport",
+     "urls": [
+      "https://stream1.antenaplay.ro/as/AS.ro/chunklist.m3u8"
+     ]
+    },
+    {
+     "name": "Arena4",
+     "urls": [
+      "http://88.212.7.14/live/arena4/index.m3u8"
+     ]
+    },
+    {
+     "name": "Arena Sport 1",
+     "urls": [
+      "http://88.212.15.50/live/test_arenasport/playlist.m3u8"
+     ]
+    },
+    {
+     "name": "Arena Sport 1 Premium (Serbia) (360p)",
+     "urls": [
+      "http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vmRdlEHaaMaQAQw3LRAakpnghBMtR57sXXgLEXZF8gVD"
+     ]
+    },
+    {
+     "name": "Arena Sport 1 Premium (Slovenia)",
+     "urls": [
+      "http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vhWLdkJ_3C0RZgs4W19uhl8S3kU0l__4SxERjFMDgcT6"
+     ]
+    },
+    {
+     "name": "Arena Sport 2",
+     "urls": [
+      "http://88.212.15.50/live/test_arenasport_dva/playlist.m3u8"
+     ]
+    },
+    {
+     "name": "Arena Sport Premium M1",
+     "urls": [
+      "http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vgvje3t-Jiqa5d94ZBmKAqQgIFxl-Ch6B37eGpkVDb28"
+     ]
+    },
+    {
+     "name": "Arena Sport Premium M2",
+     "urls": [
+      "http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vgvje3t-Jiqa5d94ZBmKAqR25sVNOuyj97sUY8aJBFf4"
+     ]
+    },
+    {
+     "name": "Arena Sport Premium M3",
+     "urls": [
+      "http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vgvje3t-Jiqa5d94ZBmKAqSVr5S9_a_TNo_sg7gE1yvH"
+     ]
+    },
+    {
+     "name": "Arryadia (720p)",
+     "urls": [
+      "http://149.100.11.252:8000/play/a065/index.m3u8"
+     ]
+    },
+    {
+     "name": "AS3 Sport TV (1080p)",
+     "urls": [
+      "https://streamtv.as3sport.online:3394/hybrid/play.m3u8"
+     ]
+    },
+    {
+     "name": "Astrahan.Ru Sport (720p)",
+     "urls": [
+      "https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8"
+     ]
+    },
+    {
+     "name": "ATG Live (720p)",
+     "urls": [
+      "https://kanal75xto-llhls.akamaized.net/live/Data/atg-kanal-15-02a-rr/HLS-Legacy-HL/atg-kanal-15-02a-rr.m3u8"
+     ]
+    },
+    {
+     "name": "Awapa Sports TV (1080p) [Not 24/7]",
+     "urls": [
+      "https://mgv-awapa.akamaized.net/hls/live/2104282/MGV_CHANNEL15/master.m3u8"
+     ]
+    },
+    {
+     "name": "AyM Sports (1080p)",
+     "urls": [
+      "http://168.196.127.137:6001/play/a06v/index.m3u8"
+     ]
+    },
+    {
+     "name": "Azteca Deportes Network (1080p)",
+     "urls": [
+      "http://209.14.115.253:8081/azteca-deportes/index.m3u8"
+     ]
+    },
+    {
+     "name": "Bahrain Sports 1 (720p) [Not 24/7]",
+     "urls": [
+      "https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8"
+     ]
+    },
+    {
+     "name": "Bahrain Sports 2 (720p) [Not 24/7]",
+     "urls": [
+      "https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8"
+     ]
+    },
+    {
+     "name": "Band Sports (1080p)",
+     "urls": [
+      "https://cdn-5.nxplay.com.br/BAND_SPORTS/index.m3u8"
+     ]
+    },
+    {
+     "name": "Barca TV",
+     "urls": [
+      "https://live20.bozztv.com/dvrfl06/astv/astv-barca/index.m3u8"
+     ]
+    },
+    {
+     "name": "beIN Sports 1",
+     "urls": [
+      "https://vg162.adcdsd123321.shop/7.m3u8"
+     ]
+    },
+    {
+     "name": "beIN Sports 1 Turk",
+     "urls": [
+      "http://57.129.0.61:1990/stream/117/index.m3u8"
+     ]
+    },
+    {
+     "name": "beIN Sports USA (576p)",
+     "urls": [
+      "https://tvsen6.aynaott.com/beinsports/index.m3u8"
+     ]
+    },
+    {
+     "name": "beIN SPORTS XTRA (1080p)",
+     "urls": [
+      "https://bein-xtra-bein.amagi.tv/playlist.m3u8"
+     ]
+    },
+    {
+     "name": "beIN SPORTS XTRA en Espanol (1080p)",
+     "urls": [
+      "https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8"
+     ]
+    },
+    {
+     "name": "BEK Sports West (720p)",
+     "urls": [
+      "https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8"
+     ]
+    },
+    {
+     "name": "Belarus-5 (1080p) [Not 24/7]",
+     "urls": [
+      "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8"
+     ]
+    },
+    {
+     "name": "Belarus-5 HD (1080p)",
+     "urls": [
+      "http://178.124.179.122:8080/BT5/index.m3u8"
+     ]
+    },
+    {
+     "name": "Belarus-5 Internet (1080p) [Not 24/7]",
+     "urls": [
+      "https://edge59.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8"
+     ]
+    },
+    {
+     "name": "Bellator MMA",
+     "urls": [
+      "https://jmp2.uk/plu-5ebc8688f3697d00072f7cf8.m3u8"
+     ]
+    },
+    {
+     "name": "Bicolor+ (720p)",
+     "urls": [
+      "https://live-evg10.tv360.bitel.com.pe/bitel/bicolorfree_abr/playlist.m3u8"
+     ]
+    },
+    {
+     "name": "Bicolor+ Premium 2 (720p)",
+     "urls": [
+      "https://live-evg10.tv360.bitel.com.pe/bitel/bicolorpremium2_abr/playlist.m3u8"
+     ]
+    }
+   ]
+  },
+  {
+   "group": "LibreTV·全球新闻",
+   "channels": [
+    {
+     "name": "2GB (1080p)",
+     "urls": [
+      "https://2gblive.akamaized.net/hls/live/2033805/2GB/index.m3u8"
+     ]
+    },
+    {
+     "name": "3AW (1080p)",
+     "urls": [
+      "https://3awlive.akamaized.net/hls/live/2032295/3AW/index.m3u8"
+     ]
+    },
+    {
+     "name": "4Dmas Noticias TV (1080p) [Not 24/7]",
+     "urls": [
+      "https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8"
+     ]
+    },
+    {
+     "name": "4 SiDES TV (1080p)",
+     "urls": [
+      "https://stream.ottlive.co.in/4sidestv/index.m3u8"
+     ]
+    },
+    {
+     "name": "4TV News (576p)",
+     "urls": [
+      "https://fta.ektv.in/live/647/master.m3u8"
+     ]
+    },
+    {
+     "name": "6PR (1080p)",
+     "urls": [
+      "https://6prlive.akamaized.net/hls/live/2033806/6PR/index.m3u8"
+     ]
+    },
+    {
+     "name": "6 TV Telugu (576p)",
+     "urls": [
+      "https://mumbai-edge.smartplaytv.in/6TVTelugu/index.m3u8"
+     ]
+    },
+    {
+     "name": "7 Info",
+     "urls": [
+      "https://video1.getstreamhosting.com:1936/8042/8042/playlist.m3u8"
+     ]
+    },
+    {
+     "name": "7 News (720p)",
+     "urls": [
+      "https://sscsott.com/7news/live/index.m3u8"
+     ]
+    },
+    {
+     "name": "9 Plus News (1080p)",
+     "urls": [
+      "https://stream.ottlive.co.in/9plusnews/index.m3u8"
+     ]
+    },
+    {
+     "name": "10 TV (720p)",
+     "urls": [
+      "https://mumbai-edge.smartplaytv.in/10TV/index.m3u8"
+     ]
+    },
+    {
+     "name": "13 Siam Thai (1080p)",
+     "urls": [
+      "https://live.x2.co.th/live/13livetv-th.m3u8"
+     ]
+    },
+    {
+     "name": "22Scope News (1080p)",
+     "urls": [
+      "https://thelegitpro.in/HDlive/22scope/index.fmp4.m3u8"
+     ]
+    },
+    {
+     "name": "24/7 Canal de Noticias (360p)",
+     "urls": [
+      "https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8"
+     ]
+    },
+    {
+     "name": "24 Kanal (720p)",
+     "urls": [
+      "https://cdn15.live-tv.cloud/ua_infinitas_tv/news24-abr/playlist.m3u8"
+     ]
+    },
+    {
+     "name": "24KZ (576p)",
+     "urls": [
+      "https://fs.uplink.kz/24KZ/mono.m3u8?token=onlinetv"
+     ]
+    },
+    {
+     "name": "24 News (576p)",
+     "urls": [
+      "https://mumt07.tangotv.in/zHjX9OFlTWENTYFOURNEWS/index.m3u8"
+     ]
+    },
+    {
+     "name": "24 News HD",
+     "urls": [
+      "https://cdn4.mjunoon.tv:8087/streamtest/146M/chunks.m3u8"
+     ]
+    },
+    {
+     "name": "24 TV (720p)",
+     "urls": [
+      "https://turkmedya-live.ercdn.net/tv24/tv24.m3u8"
+     ]
+    },
+    {
+     "name": "30A Lionel Nation",
+     "urls": [
+      "https://30a-tv.com/ln.m3u8"
+     ]
+    },
+    {
+     "name": "92 News HD (720p)",
+     "urls": [
+      "http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8"
+     ]
+    },
+    {
+     "name": "99TV (720p)",
+     "urls": [
+      "https://cdn.pishow.tv/ott/live/1211/master.m3u8"
+     ]
+    },
+    {
+     "name": "101tv Malaga",
+     "urls": [
+      "https://liveingesta318.cdnmedia.tv/101weblive/smil:malaga.smil/playlist.m3u8"
+     ]
+    },
+    {
+     "name": "360 (720p) [Not 24/7]",
+     "urls": [
+      "https://turkmedya-live.ercdn.net/tv360/tv360.m3u8"
+     ]
+    },
+    {
+     "name": "360° News (1080p)",
+     "urls": [
+      "https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8"
+     ]
+    },
+    {
+     "name": "365 News",
+     "urls": [
+      "https://cdn4.mjunoon.tv:8087/streamtest/140M/chunks.m3u8"
+     ]
+    },
+    {
+     "name": ":24 (1080p)",
+     "urls": [
+      "http://88.212.15.50/live/test_trojka_25p/playlist.m3u8"
+     ]
+    },
+    {
+     "name": "A2 CNN",
+     "urls": [
+      "https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8"
+     ]
+    },
+    {
+     "name": "A24 (1080p)",
+     "urls": [
+      "http://138.59.227.20:8000/play/a05u/index.m3u8"
+     ]
+    },
+    {
+     "name": "A24 Paraguay (1080p)",
+     "urls": [
+      "https://a24-live.argosworkspace.com/a24/index.m3u8"
+     ]
+    },
+    {
+     "name": "A Haber (1080p)",
+     "urls": [
+      "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber.m3u8"
+     ]
+    },
+    {
+     "name": "Aagaaz Times (1080p)",
+     "urls": [
+      "https://live1.ottlive.co.in/aagaaztimes/index.m3u8"
+     ]
+    },
+    {
+     "name": "Aaj Ki Khabar (1080p)",
+     "urls": [
+      "https://stream.ottlive.co.in/aajkikhabar/index.m3u8"
+     ]
+    },
+    {
+     "name": "Aaj News (576p)",
+     "urls": [
+      "http://115.42.65.142:9981/stream/channelid/750987367"
+     ]
+    },
+    {
+     "name": "Aaj Tak (720p)",
+     "urls": [
+      "https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-791258/master.m3u8"
+     ]
+    },
+    {
+     "name": "Aaj Tak HD (1080p)",
+     "urls": [
+      "https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8"
+     ]
+    },
+    {
+     "name": "Abante TV (1080p)",
+     "urls": [
+      "https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8"
+     ]
+    },
+    {
+     "name": "Abb Takk (576p)",
+     "urls": [
+      "http://115.42.65.142:9981/stream/channelid/852828604"
+     ]
+    },
+    {
+     "name": "ABC News (720p)",
+     "urls": [
+      "https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8"
+     ]
+    },
+    {
+     "name": "ABC News Live 1 (720p)",
+     "urls": [
+      "https://abcnews-streams.akamaized.net/hls/live/2023560/abcnewshudson1/master.m3u8"
+     ]
+    },
+    {
+     "name": "ABC News Live 2 (720p)",
+     "urls": [
+      "https://abcnews-streams.akamaized.net/hls/live/2023561/abcnewshudson2/master.m3u8"
+     ]
+    },
+    {
+     "name": "ABC News Live 3 (720p)",
+     "urls": [
+      "https://abcnews-streams.akamaized.net/hls/live/2023562/abcnewshudson3/master.m3u8"
+     ]
+    },
+    {
+     "name": "ABC News Live 4 (720p)",
+     "urls": [
+      "https://abcnews-streams.akamaized.net/hls/live/2023563/abcnewshudson4/master.m3u8"
+     ]
+    },
+    {
+     "name": "ABC News Live 5 (720p)",
+     "urls": [
+      "https://abcnews-streams.akamaized.net/hls/live/2023564/abcnewshudson5/master.m3u8"
+     ]
+    },
+    {
+     "name": "ABC News Live 6 (720p)",
+     "urls": [
+      "https://abcnews-streams.akamaized.net/hls/live/2023565/abcnewshudson6/master.m3u8"
+     ]
+    },
+    {
+     "name": "ABC News Live 7 (720p)",
+     "urls": [
+      "https://abcnews-streams.akamaized.net/hls/live/2023566/abcnewshudson7/master.m3u8"
+     ]
+    },
+    {
+     "name": "ABC News Live 8 (720p)",
+     "urls": [
+      "https://abcnews-streams.akamaized.net/hls/live/2023567/abcnewshudson8/master.m3u8"
+     ]
+    },
+    {
+     "name": "ABC News Live 9 (720p)",
+     "urls": [
+      "https://abcnews-streams.akamaized.net/hls/live/2023568/abcnewshudson9/master.m3u8"
+     ]
+    },
+    {
+     "name": "ABC News Live 10 (720p)",
+     "urls": [
+      "https://abcnews-streams.akamaized.net/hls/live/2023569/abcnewshudson10/master.m3u8"
+     ]
+    },
+    {
+     "name": "ABC News Live (720p)",
+     "urls": [
+      "https://jmp2.uk/plu-6508be683a0d700008c534e4.m3u8"
+     ]
+    }
+   ]
+  },
+  {
+   "group": "LibreTV·全球电影",
+   "channels": [
+    {
+     "name": "00s Replay",
+     "urls": [
+      "https://jmp2.uk/plu-62ba60f059624e000781c436.m3u8"
+     ]
+    },
+    {
+     "name": "4ever Cinema (1080p)",
+     "urls": [
+      "http://stream.mcquack.net/258/index.m3u8"
+     ]
+    },
+    {
+     "name": "24 Hour Free Movies (720p)",
+     "urls": [
+      "https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8"
+     ]
+    },
+    {
+     "name": "30A TV Classic Movies (720p)",
+     "urls": [
+      "https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8"
+     ]
+    },
+    {
+     "name": "70s Cinema",
+     "urls": [
+      "https://jmp2.uk/plu-5f4d878d3d19b30007d2e782.m3u8"
+     ]
+    },
+    {
+     "name": "80s Rewind",
+     "urls": [
+      "https://jmp2.uk/plu-5ca525b650be2571e3943c63.m3u8"
+     ]
+    },
+    {
+     "name": "90s Throwback",
+     "urls": [
+      "https://jmp2.uk/plu-5f4d86f519358a00072b978e.m3u8"
+     ]
+    },
+    {
+     "name": "312 Kino (406p)",
+     "urls": [
+      "http://176.126.166.43:1935/live/312kino/playlist.m3u8"
+     ]
+    },
+    {
+     "name": "&TV International (1080p)",
+     "urls": [
+      "https://3f56f997.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BbmRUVl9ITFM/playlist.m3u8"
+     ]
+    },
+    {
+     "name": "Action 24 (1080p) [Not 24/7]",
+     "urls": [
+      "http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8"
+     ]
+    },
+    {
+     "name": "Action (540p)",
+     "urls": [
+      "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/action/live.livx/playlist.m3u8"
+     ]
+    },
+    {
+     "name": "Adrenalina Pura TV (720p)",
+     "urls": [
+      "https://jmp2.uk/plu-61b793ccf571b80007b7a610.m3u8"
+     ]
+    },
+    {
+     "name": "Adrenalina Pura TV Brazil",
+     "urls": [
+      "https://jmp2.uk/plu-61b790b985706b00072cb797.m3u8"
+     ]
+    },
+    {
+     "name": "Afghan Nobel Movies (720p)",
+     "urls": [
+      "https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/playlist.m3u8"
+     ]
+    },
+    {
+     "name": "Aflam (1080p)",
+     "urls": [
+      "https://shd-amg-fast.edgenextcdn.net/tx001/playlist.m3u8"
+     ]
+    },
+    {
+     "name": "Afra Film",
+     "urls": [
+      "https://afrafhls.wns.live/hls/stream.m3u8"
+     ]
+    },
+    {
+     "name": "Alankar TV (720p)",
+     "urls": [
+      "https://livetv.tarangplus.in/alankar-origin/live/playlist.m3u8"
+     ]
+    },
+    {
+     "name": "All Time Movies (576p)",
+     "urls": [
+      "https://fta.ektv.in/live/54/54_0.m3u8"
+     ]
+    },
+    {
+     "name": "Allo Cine (1080p)",
+     "urls": [
+      "https://d1yl6bf4hrzbr0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5km3zs4zs9sp0/allo.m3u8"
+     ]
+    },
+    {
+     "name": "AMC (United States) (1080p) [Geo-blocked]",
+     "urls": [
+      "http://41.205.93.154/AMC/index.m3u8"
+     ]
+    },
+    {
+     "name": "AMC Europe Bulgary",
+     "urls": [
+      "http://212.70.131.37:8000/play/a05k"
+     ]
+    },
+    {
+     "name": "AMC Europe Czech Republic",
+     "urls": [
+      "http://88.212.7.14/live/test_amc_25p/playlist.m3u8"
+     ]
+    },
+    {
+     "name": "AMC Europe Hungary",
+     "urls": [
+      "http://88.212.7.14/live/amc_hun/index.m3u8"
+     ]
+    },
+    {
+     "name": "AMC Latin America (1080p)",
+     "urls": [
+      "http://15.204.246.24:8080/AMCHD/index.m3u8"
+     ]
+    },
+    {
+     "name": "AMC Latin America Brazil (720p)",
+     "urls": [
+      "http://170.83.49.66:8083/AMCHD/index.m3u8"
+     ]
+    },
+    {
+     "name": "American Horrors (480p)",
+     "urls": [
+      "http://107.167.7.162:8081/playlist/amhor/playlist.m3u8"
+     ]
+    },
+    {
+     "name": "Aneflix Live (720p)",
+     "urls": [
+      "https://stream-cdn-iad.vaughnsoft.net/play/live_a_neflix01.flv"
+     ]
+    },
+    {
+     "name": "Armenia Premium (720p)",
+     "urls": [
+      "http://stream.mcquack.net/123/index.m3u8"
+     ]
+    },
+    {
+     "name": "Asianet Movies (396p)",
+     "urls": [
+      "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:asianetmovies.smil/chunklist_b1928000.m3u8"
+     ]
+    },
+    {
+     "name": "Aurora Media Films (720p)",
+     "urls": [
+      "https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8"
+     ]
+    },
+    {
+     "name": "AVI Rewind (1080p)",
+     "urls": [
+      "http://45.70.201.81:8000/play/a010/index.m3u8"
+     ]
+    },
+    {
+     "name": "AXN (Brazil) (720p)",
+     "urls": [
+      "http://170.83.16.50/AXN/index.m3u8"
+     ]
+    },
+    {
+     "name": "AXN (Portugal) (1080p)",
+     "urls": [
+      "http://188.115.15.121:8000/play/a02z"
+     ]
+    },
+    {
+     "name": "AXN (Spain)",
+     "urls": [
+      "http://sultanios.alwaysdata.net/vavo.php?ID=4238619703"
+     ]
+    },
+    {
+     "name": "AXN (Spain) HD",
+     "urls": [
+      "http://90.170.214.40:9700/stream/avatel/axn/master.m3u8"
+     ]
+    },
+    {
+     "name": "AXN Black (Germany)",
+     "urls": [
+      "http://46.244.99.71:8181/stream/35/index.m3u8"
+     ]
+    },
+    {
+     "name": "AXN Black (United States)",
+     "urls": [
+      "http://85.14.32.26:8800/udp/239.100.10.17:5000"
+     ]
+    },
+    {
+     "name": "AXN Black (United States) Czech Republic",
+     "urls": [
+      "http://88.212.15.50/live/test_black/playlist.m3u8"
+     ]
+    },
+    {
+     "name": "AXN Black (United States) Hungary (576p)",
+     "urls": [
+      "http://141.94.193.53/axn_black/index.m3u8"
+     ]
+    },
+    {
+     "name": "AXN Black (United States) Poland (576p)",
+     "urls": [
+      "http://185.227.34.179:8080/axn-black/index.m3u8"
+     ]
+    },
+    {
+     "name": "AXN CEE",
+     "urls": [
+      "http://88.212.15.50/live/axn_hun/index.m3u8"
+     ]
+    },
+    {
+     "name": "AXN CEE Bulgary",
+     "urls": [
+      "http://85.11.144.9:4222/AXN"
+     ]
+    },
+    {
+     "name": "AXN CEE Czech Republic",
+     "urls": [
+      "http://88.212.15.50/live/test_axn/playlist.m3u8"
+     ]
+    },
+    {
+     "name": "AXN CEE Romania",
+     "urls": [
+      "https://cronos.mangora1.cfd/axy/usergend3h5jkc9rnd.m3u8"
+     ]
+    },
+    {
+     "name": "AXN Crime",
+     "urls": [
+      "http://88.212.7.14/live/viasat_film/index.m3u8"
+     ]
+    },
+    {
+     "name": "AXN Latin America (1080p)",
+     "urls": [
+      "http://138.121.15.230:9002/AXN/index.m3u8"
+     ]
+    },
+    {
+     "name": "AXN Latin America Andes (1080p)",
+     "urls": [
+      "http://181.78.8.199:8000/play/a0cu/index.m3u8"
+     ]
+    },
+    {
+     "name": "AXN Latin America South",
+     "urls": [
+      "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/10.m3u8"
+     ]
+    },
+    {
+     "name": "AXN Movies (Portugal) (720p)",
+     "urls": [
+      "http://50.7.120.34:8080/AXN_BLACK/index.m3u8"
+     ]
+    },
+    {
+     "name": "AXN Movies (Spain)",
+     "urls": [
+      "http://sultanios.alwaysdata.net/vavo.php?ID=2493319111"
+     ]
+    }
+   ]
+  },
+  {
+   "group": "LibreTV·优质精选",
+   "channels": [
+    {
+     "name": "Kanali 7 Ⓢ",
+     "urls": [
+      "https://fe.tring.al/delta/105/out/u/1200_1.m3u8"
+     ]
+    },
+    {
+     "name": "ABC News Albania Ⓣ",
+     "urls": [
+      "https://www.twitch.tv/abcnewsal"
+     ]
+    },
+    {
+     "name": "AlbKanale Music TV Ⓢ",
+     "urls": [
+      "https://albportal.net/albkanalemusic.m3u8"
+     ]
+    },
+    {
+     "name": "Alpo TV",
+     "urls": [
+      "https://5d00db0e0fcd5.streamlock.net/7236/7236/playlist.m3u8"
+     ]
+    },
+    {
+     "name": "CNA",
+     "urls": [
+      "https://live1.mediadesk.al/cnatvlive.m3u8"
+     ]
+    },
+    {
+     "name": "Euronews Albania Ⓨ",
+     "urls": [
+      "https://www.youtube.com/@EuronewsAlbania/live"
+     ]
+    },
+    {
+     "name": "News 24 Ⓢ",
+     "urls": [
+      "https://tv.balkanweb.com/news24/livestream/playlist.m3u8"
+     ]
+    },
+    {
+     "name": "Ora News",
+     "urls": [
+      "https://live1.mediadesk.al/oranews.m3u8"
+     ]
+    },
+    {
+     "name": "Panorama TV Ⓢ",
+     "urls": [
+      "http://198.244.188.94/panorama/livestream/playlist.m3u8"
+     ]
+    },
+    {
+     "name": "Report TV",
+     "urls": [
+      "https://deb10stream.duckdns.org/hls/stream.m3u8"
+     ]
+    },
+    {
+     "name": "Syri",
+     "urls": [
+      "https://stream.syritv.al/live/syritv/playlist.m3u8"
+     ]
+    },
+    {
+     "name": "Top News Ⓣ",
+     "urls": [
+      "https://www.twitch.tv/topnewsal"
+     ]
+    },
+    {
+     "name": "Tropoja",
+     "urls": [
+      "https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8"
+     ]
+    },
+    {
+     "name": "TV 7 Albania",
+     "urls": [
+      "https://rpn3.bozztv.com/albaniatv/Med7-TV7Tirana/index.m3u8"
+     ]
+    },
+    {
+     "name": "TV Apollon Ⓢ",
+     "urls": [
+      "https://live.apollon.tv/Apollon-Web/video.m3u8?token=tnt9u76reF0d1"
+     ]
+    },
+    {
+     "name": "Vizion Plus",
+     "urls": [
+      "https://tringliveviz.akamaized.net/delta/105/out/u/qwaszxerdfcvrtryuy.m3u8"
+     ]
+    },
+    {
+     "name": "Andorra TV",
+     "urls": [
+      "https://livesg1.rtva.hiway.media/11a6d6f4-ee13-47c7-9c27-7313cf5424e2/manifest.m3u8"
+     ]
+    },
+    {
+     "name": "TN Todo Noticias Ⓨ",
+     "urls": [
+      "https://www.youtube.com/c/todonoticias/live"
+     ]
+    },
+    {
+     "name": "Encuentro Ⓨ Ⓖ",
+     "urls": [
+      "https://www.youtube.com/user/encuentro/live"
+     ]
+    },
+    {
+     "name": "Pakapaka Ⓨ Ⓖ",
+     "urls": [
+      "https://www.youtube.com/user/CanalPakapaka/live"
+     ]
+    },
+    {
+     "name": "Aunar",
+     "urls": [
+      "https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/playlist.m3u8"
+     ]
+    },
+    {
+     "name": "Cine.AR",
+     "urls": [
+      "https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8"
+     ]
+    },
+    {
+     "name": "Tec TV",
+     "urls": [
+      "https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8"
+     ]
+    },
+    {
+     "name": "Televisión Pública Ⓨ",
+     "urls": [
+      "https://www.youtube.com/user/TVPublicaArgentina/live"
+     ]
+    },
+    {
+     "name": "DeporTV",
+     "urls": [
+      "https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8"
+     ]
+    },
+    {
+     "name": "Canal 26",
+     "urls": [
+      "https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8"
+     ]
+    },
+    {
+     "name": "Crónica TV Ⓨ",
+     "urls": [
+      "https://www.youtube.com/c/cronicatv/live"
+     ]
+    },
+    {
+     "name": "Argentina 12 Ⓨ",
+     "urls": [
+      "https://www.youtube.com/c/IPNoticiasEnVivo/live"
+     ]
+    },
+    {
+     "name": "El Destape Ⓨ",
+     "urls": [
+      "https://www.youtube.com/c/eldestapetv/live"
+     ]
+    },
+    {
+     "name": "C5N Ⓨ",
+     "urls": [
+      "https://www.youtube.com/c/c5n/live"
+     ]
+    },
+    {
+     "name": "LN+ Ⓨ",
+     "urls": [
+      "https://www.youtube.com/c/LaNacionMas/live"
+     ]
+    },
+    {
+     "name": "+Perfil",
+     "urls": [
+      "https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/perfiltv/livestream2/chunks.m3u8"
+     ]
+    },
+    {
+     "name": "Telemax",
+     "urls": [
+      "https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8"
+     ]
+    },
+    {
+     "name": "Net TV",
+     "urls": [
+      "https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8"
+     ]
+    },
+    {
+     "name": "TV Universidad",
+     "urls": [
+      "https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8"
+     ]
+    },
+    {
+     "name": "Barricada TV",
+     "urls": [
+      "https://www.youtube.com/channel/UC6YundoLrEuBJaPp_oEPWaA/live"
+     ]
+    },
+    {
+     "name": "Urbana Tevé",
+     "urls": [
+      "https://www.youtube.com/channel/UCTnbbQUGmWEKeCq9wWoyN0g/live"
+     ]
+    },
+    {
+     "name": "Comarca TV",
+     "urls": [
+      "https://www.youtube.com/c/ComarcaTV/live"
+     ]
+    },
+    {
+     "name": "El Trece",
+     "urls": [
+      "https://livetrx01.vodgc.net/eltrecetv/index.m3u8"
+     ]
+    },
+    {
+     "name": "El Nueve",
+     "urls": [
+      "http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-canal9.playlist.m3u8"
+     ]
+    },
+    {
+     "name": "Telefe",
+     "urls": [
+      "http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8"
+     ]
+    },
+    {
+     "name": "América",
+     "urls": [
+      "https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8"
+     ]
+    },
+    {
+     "name": "A24 Ⓨ",
+     "urls": [
+      "https://www.youtube.com/c/A24com/live"
+     ]
+    },
+    {
+     "name": "Armenia 1",
+     "urls": [
+      "https://ifl01eu-new.bozztv.com/am1abr/index.m3u8"
+     ]
+    },
+    {
+     "name": "Kentron TV Ⓢ",
+     "urls": [
+      "http://stream.mcquack.net/39/index.m3u8"
+     ]
+    },
+    {
+     "name": "Armenia TV Ⓢ",
+     "urls": [
+      "http://stream.mcquack.net/175/index.m3u8"
+     ]
+    },
+    {
+     "name": "10 HD",
+     "urls": [
+      "https://i.mjh.nz/.r/10-nsw.m3u8"
+     ]
+    },
+    {
+     "name": "ABC",
+     "urls": [
+      "https://c.mjh.nz/abc-nsw.m3u8"
+     ]
+    },
+    {
+     "name": "SBS Ⓖ",
+     "urls": [
+      "https://i.mjh.nz/.r/sbs-sbst.m3u8"
+     ]
+    },
+    {
+     "name": "Seven",
+     "urls": [
+      "https://i.mjh.nz/.r/seven-syd.m3u8"
+     ]
+    }
+   ]
+  },
+  {
+   "group": "LibreTV·香港频道",
+   "channels": [
+    {
+     "name": "Asian Drama (1080p)",
+     "urls": [
+      "http://103.172.187.30:12000/stream/mytv/null-11/master.m3u8"
+     ]
+    },
+    {
+     "name": "Jade (1080p)",
+     "urls": [
+      "http://103.172.187.30:12000/stream/mytv/null-1/master.m3u8"
+     ]
+    },
+    {
+     "name": "Pet Club TV (1080p)",
+     "urls": [
+      "https://petclub-samsungaus.amagi.tv/playlist.m3u8"
+     ]
+    },
+    {
+     "name": "BSTV (Hong Kong) (576p)",
+     "urls": [
+      "http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8"
+     ]
+    },
+    {
+     "name": "Celestial Movies (576i)",
+     "urls": [
+      "http://103.58.160.157:8278/720-CELESTIALMOVIES/playlist.m3u8"
+     ]
+    },
+    {
+     "name": "Mei Ah Movie Channel (1080p)",
+     "urls": [
+      "http://103.172.187.30:12000/stream/mytv/null-2/master.m3u8"
+     ]
+    },
+    {
+     "name": "Golden Jade (1080p)",
+     "urls": [
+      "http://103.172.187.30:12000/stream/mytv/null-12/master.m3u8"
+     ]
+    },
+    {
+     "name": "HOY Infotainment (1080p) [Geo-blocked]",
+     "urls": [
+      "https://hoytv-live-stream.hoy.tv/ch78/index.m3u8"
+     ]
+    },
+    {
+     "name": "RTHK TV 31 (1080p) [Geo-blocked]",
+     "urls": [
+      "https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8"
+     ]
+    },
+    {
+     "name": "RTHK TV 32 (1080p) [Geo-blocked]",
+     "urls": [
+      "https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8"
+     ]
+    },
+    {
+     "name": "RTHK TV 33 (1080p) [Geo-blocked]",
+     "urls": [
+      "https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/master.m3u8"
+     ]
+    },
+    {
+     "name": "RTHK TV 34 (1080p) [Geo-blocked]",
+     "urls": [
+      "https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/master.m3u8"
+     ]
+    },
+    {
+     "name": "ViuTV (1080i)",
+     "urls": [
+      "http://php.jdshipin.com/TVOD/iptv.php?id=viutv"
+     ]
+    },
+    {
+     "name": "Hong Kong International Business Channel (1080p) [Geo-blocked]",
+     "urls": [
+      "https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8"
+     ]
+    },
+    {
+     "name": "HOY TV (1080p) [Geo-blocked]",
+     "urls": [
+      "https://hoytv-live-stream.hoy.tv/ch77/index.m3u8"
+     ]
+    },
+    {
+     "name": "Phoenix Chinese Channel (720p)",
+     "urls": [
+      "http://223.110.245.139/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8"
+     ]
+    },
+    {
+     "name": "Phoenix InfoNews Channel (720p)",
+     "urls": [
+      "http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8"
+     ]
+    },
+    {
+     "name": "RTHK TV 35 (1080p) [Geo-blocked]",
+     "urls": [
+      "https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/master.m3u8"
+     ]
+    }
+   ]
+  },
+  {
+   "group": "LibreTV·全球IPTV",
+   "channels": [
+    {
+     "name": "AXN Poland (1080p)",
+     "urls": [
+      "http://92.114.85.87:8015/play/a00f/index.m3u8"
+     ]
+    },
+    {
+     "name": "Az Cinema (1080p)",
+     "urls": [
+      "http://15.204.196.147:22880/CABLE-MAGES-AZCINEMA/video.m3u8"
+     ]
+    },
+    {
+     "name": "B4U Bhojpuri (1080p)",
+     "urls": [
+      "https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8"
+     ]
+    },
+    {
+     "name": "B4U Bhojpuri Plus (1080p)",
+     "urls": [
+      "https://cc-t2mudtkmuz4wb.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t2mudtkmuz4wb/B4U_Bhojpuri/master.m3u8"
+     ]
+    },
+    {
+     "name": "B4U Kadak (1080p)",
+     "urls": [
+      "https://amg00877-b4unew-amg00877c4-xiaomi-in-5473.playouts.now.amagi.tv/playlist.m3u8"
+     ]
+    },
+    {
+     "name": "B4U Movies (1080p)",
+     "urls": [
+      "https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist.m3u8"
+     ]
+    },
+    {
+     "name": "BET Cinema",
+     "urls": [
+      "https://jmp2.uk/plu-58af4c093a41ca9d4ecabe96.m3u8"
+     ]
+    },
+    {
+     "name": "BET Comedy Movies",
+     "urls": [
+      "https://jmp2.uk/plu-68c32d88f56983aba40052bd.m3u8"
+     ]
+    },
+    {
+     "name": "BET Visionaries",
+     "urls": [
+      "https://jmp2.uk/plu-663946c1b18d700008d9c168.m3u8"
+     ]
+    },
+    {
+     "name": "Bhojpuri Cinema (720p)",
+     "urls": [
+      "https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8"
+     ]
+    },
+    {
+     "name": "BIZ Cinema (1080p)",
+     "urls": [
+      "https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/index.m3u8"
+     ]
+    },
+    {
+     "name": "Blokbaster HD (1080p)",
+     "urls": [
+      "http://stream.mcquack.net/364/index.m3u8"
+     ]
+    },
+    {
+     "name": "Bollygold (1080p)",
+     "urls": [
+      "https://jmp2.uk/stvp-IN4000600Q"
+     ]
+    },
+    {
+     "name": "Bollywood HD (576p)",
+     "urls": [
+      "http://176.118.197.101/Bollywood_HD/index.m3u8"
+     ]
+    },
+    {
+     "name": "Bollywood HD Russia (576p)",
+     "urls": [
+      "https://xykt-fix.github.io/cinerama_edge01/hls/BOLLYWOOD_RU/Movie009.m3u8"
+     ]
+    },
+    {
+     "name": "Bom Cine (576p)",
+     "urls": [
+      "https://cdn78-at.azotosolutions.com/cdnedge39/Canale3/master.m3u8"
+     ]
+    },
+    {
+     "name": "Boreal (720p) [Not 24/7]",
+     "urls": [
+      "https://edge.essastream.com/borealtelevision/tracks-v1a1/mono.m3u8"
+     ]
+    },
+    {
+     "name": "Bravo Farsi TV (360p)",
+     "urls": [
+      "https://bravoohls.wns.live/hls/stream.m3u8"
+     ]
+    },
+    {
+     "name": "bTV Action",
+     "urls": [
+      "http://213.91.179.28:8000/play/a04n"
+     ]
+    },
+    {
+     "name": "bTV Cinema",
+     "urls": [
+      "http://213.91.179.28:8000/play/a04i"
+     ]
+    },
+    {
+     "name": "bTV Lady",
+     "urls": [
+      "http://213.91.179.28:8000/play/a05i"
+     ]
+    },
+    {
+     "name": "Cafe Film",
+     "urls": [
+      "https://cafefhls.wns.live/hls/stream.m3u8"
+     ]
+    },
+    {
+     "name": "Canal Cine Dios",
+     "urls": [
+      "https://canal.mediaserver.com.co/live/cinedios.m3u8"
+     ]
+    },
+    {
+     "name": "Canal+ Action Europe (360p)",
+     "urls": [
+      "https://lb.iptvnetwork.net/ls28/10020/playlist.m3u8"
+     ]
+    },
+    {
+     "name": "Canal+ Action Europe Czechia",
+     "urls": [
+      "http://46.149.191.219:9106/play/a01g"
+     ]
+    },
+    {
+     "name": "Canal+ Action Europe Magyar",
+     "urls": [
+      "http://193.33.39.108:9016/play/a02n"
+     ]
+    },
+    {
+     "name": "Canal+ Action Europe Slovakia (720p)",
+     "urls": [
+      "http://151.80.18.177:86/Canal+_Family_HD/index.m3u8"
+     ]
+    },
+    {
+     "name": "CCTV-6 [Geo-blocked]",
+     "urls": [
+      "https://live.eac-news.com/CCTV/streams/cctv6.m3u8"
+     ]
+    },
+    {
+     "name": "CCTV-6 HD (1080p)",
+     "urls": [
+      "http://69.30.245.50/live/cctv6.m3u8"
+     ]
+    },
+    {
+     "name": "CCTV-Storm Theater (1080p)",
+     "urls": [
+      "http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub"
+     ]
+    },
+    {
+     "name": "CCTV-The First Theater (1080p)",
+     "urls": [
+      "http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub"
+     ]
+    },
+    {
+     "name": "Charge! (1080p)",
+     "urls": [
+      "https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8"
+     ]
+    },
+    {
+     "name": "CHC Action (1080p)",
+     "urls": [
+      "http://39.134.19.68/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8"
+     ]
+    },
+    {
+     "name": "CINDIE TV (1080p)",
+     "urls": [
+      "https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8"
+     ]
+    },
+    {
+     "name": "Cine34 [Geo-blocked]",
+     "urls": [
+      "https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(b6)/index.m3u8"
+     ]
+    },
+    {
+     "name": "Cine34 HD (1080p)",
+     "urls": [
+      "https://live02-seg.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/index.m3u8"
+     ]
+    },
+    {
+     "name": "Cine 666 by Pluto TV",
+     "urls": [
+      "https://jmp2.uk/plu-6823648580b2665220d9e69a.m3u8"
+     ]
+    },
+    {
+     "name": "Cine Action by Pluto TV",
+     "urls": [
+      "https://jmp2.uk/plu-5f8ed1ff5c39700007e2204a.m3u8"
+     ]
+    },
+    {
+     "name": "Cine Adrenalina",
+     "urls": [
+      "https://jmp2.uk/plu-5d8d164d92e97a5e107638d2.m3u8"
+     ]
+    },
+    {
+     "name": "Cine Amor",
+     "urls": [
+      "https://jmp2.uk/plu-5f5136317aedfb0007016f93.m3u8"
+     ]
+    },
+    {
+     "name": "Cine by Pluto TV",
+     "urls": [
+      "https://jmp2.uk/plu-5f8ed0f17564a300082b676a.m3u8"
+     ]
+    },
+    {
+     "name": "Cine Catastrophe by Pluto TV",
+     "urls": [
+      "https://jmp2.uk/plu-65a69ef53af63d000825e0ee.m3u8"
+     ]
+    },
+    {
+     "name": "Cine d'Asie by Pluto TV",
+     "urls": [
+      "https://jmp2.uk/plu-62f3e2d000418d00070f7dbc.m3u8"
+     ]
+    },
+    {
+     "name": "Cine Familiar (1080p)",
+     "urls": [
+      "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinefamiliar.stream/playlist.m3u8"
+     ]
+    },
+    {
+     "name": "Cine Friki (1080p)",
+     "urls": [
+      "https://d2mr4fu91mjx9m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rb0tx75ojbc5u/CineFriki_ES.m3u8"
+     ]
+    },
+    {
+     "name": "Cine Hispano (1080p)",
+     "urls": [
+      "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinehispano.stream/playlist.m3u8"
+     ]
+    },
+    {
+     "name": "Cine Horreur by Pluto TV",
+     "urls": [
+      "https://jmp2.uk/plu-66e1978babec540008ce41ac.m3u8"
+     ]
+    },
+    {
+     "name": "Cine Nanar (1080p)",
+     "urls": [
+      "https://zylo-cinenanar-rakuten.amagi.tv/playlist.m3u8"
+     ]
+    },
+    {
+     "name": "Cine Premiere",
+     "urls": [
+      "https://jmp2.uk/plu-5cf968040ab7d8f181e6a68b.m3u8"
+     ]
+    },
+    {
+     "name": "Cine Premium (1080p)",
+     "urls": [
+      "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinepremium.stream/playlist.m3u8"
+     ]
+    }
+   ]
+  },
+  {
+   "group": "LibreTV·俄罗斯台",
+   "channels": [
+    {
+     "name": "1HD Music Television (1080p)",
+     "urls": [
+      "http://176.118.197.101/1HD/index.m3u8",
+      "https://stream8.cinerama.uz/1267/tracks-v1a1/mono.m3u8"
+     ]
+    },
+    {
+     "name": "2x2 (576p)",
+     "urls": [
+      "http://176.118.197.101/2x2/index.m3u8",
+      "http://185.23.80.23:8080/2x2/index.m3u8",
+      "http://flussonic.mkpnet.ru/tv-17540fb90079a865/video.m3u8"
+     ]
+    },
+    {
+     "name": "2x2 (576i)",
+     "urls": [
+      "https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?e=2068731801&s=tenr-yHXUv1wibfka78s2A&scheme=https"
+     ]
+    },
+    {
+     "name": "2x2 SD (576p)",
+     "urls": [
+      "http://stream.mcquack.net/187/index.m3u8"
+     ]
+    },
+    {
+     "name": "5 minut tishiny (1080p)",
+     "urls": [
+      "https://cdn-dvr.ntv.ru/5_minut_tishiny/index.m3u8"
+     ]
+    },
+    {
+     "name": "6 TV Gorlovka (720p) [Geo-blocked]",
+     "urls": [
+      "http://91.214.48.158:4022/udp/224.2.2.4:10000"
+     ]
+    },
+    {
+     "name": "360° (1080p)",
+     "urls": [
+      "https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8"
+     ]
+    },
+    {
+     "name": "360°",
+     "urls": [
+      "https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/0.m3u8"
+     ]
+    },
+    {
+     "name": "360° (576p) [Geo-blocked]",
+     "urls": [
+      "https://streaming.thestream.cyou/live/7000.m3u8"
+     ]
+    },
+    {
+     "name": "360° Новости",
+     "urls": [
+      "https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/index.m3u8"
+     ]
+    },
+    {
+     "name": "365 days TV (576p)",
+     "urls": [
+      "http://stream.mcquack.net/70/index.m3u8",
+      "https://fs.uplink.kz/365_dney/mono.m3u8?token=onlinetv",
+      "https://stream8.cinerama.uz/1242/tracks-v1a1/mono.m3u8"
+     ]
+    },
+    {
+     "name": ".red HD (1080p)",
+     "urls": [
+      "http://178.134.1.158:8081/red/index.m3u8"
+     ]
+    },
+    {
+     "name": ".black (576p)",
+     "urls": [
+      "http://stream.mcquack.net/263/index.m3u8"
+     ]
+    },
+    {
+     "name": ".red (576p)",
+     "urls": [
+      "http://5.188.159.128:8070/RED/index.m3u8",
+      "http://stream.mcquack.net/69/index.m3u8"
+     ]
+    },
+    {
+     "name": ".sci-fi (576p)",
+     "urls": [
+      "http://stream.mcquack.net/180/index.m3u8"
+     ]
+    },
+    {
+     "name": "Afontovo",
+     "urls": [
+      "https://stream.afontovo.ru/hd.m3u8"
+     ]
+    },
+    {
+     "name": "AIST TV (576p)",
+     "urls": [
+      "http://194.143.148.28:8080/Aist/index.m3u8"
+     ]
+    },
+    {
+     "name": "Amedia Hit (1080p)",
+     "urls": [
+      "http://stream.mcquack.net/162/index.m3u8"
+     ]
+    },
+    {
+     "name": "Amedia Hit (576p)",
+     "urls": [
+      "http://flussonic.linkintel.ru/amedia-hit/index.m3u8"
+     ]
+    },
+    {
+     "name": "Ani (576p)",
+     "urls": [
+      "http://46.32.176.50/anitv/index.m3u8",
+      "http://flussonic.linkintel.ru/Ani/index.m3u8",
+      "http://stream.mcquack.net/306/index.m3u8"
+     ]
+    },
+    {
+     "name": "Animal Planet (1080p)",
+     "urls": [
+      "http://stream.mcquack.net/114/index.m3u8"
+     ]
+    },
+    {
+     "name": "Arsenal (576p)",
+     "urls": [
+      "https://stream8.cinerama.uz/1414/tracks-v1a1/mono.m3u8"
+     ]
+    },
+    {
+     "name": "ART (576p)",
+     "urls": [
+      "http://89.104.114.24:8080/art/index.m3u8",
+      "http://185.23.80.23:8080/ART/index.m3u8"
+     ]
+    },
+    {
+     "name": "Auto Plus",
+     "urls": [
+      "https://stream8.cinerama.uz/1036/tracks-v1a1/mono.m3u8"
+     ]
+    },
+    {
+     "name": "Avto24 (576p)",
+     "urls": [
+      "http://stream.mcquack.net/78/index.m3u8",
+      "https://fs.uplink.kz/avto24/mono.m3u8?token=onlinetv"
+     ]
+    },
+    {
+     "name": "Baby Time (576p)",
+     "urls": [
+      "http://178.134.1.158:8081/babytime/index.m3u8",
+      "https://fs.uplink.kz/baby_time/mono.m3u8?token=onlinetv"
+     ]
+    },
+    {
+     "name": "Balabol (1080p)",
+     "urls": [
+      "https://cdn-dvr.ntv.ru/Balabol/index.m3u8"
+     ]
+    },
+    {
+     "name": "Big Planet (576p)",
+     "urls": [
+      "https://fs.uplink.kz/big_planet/mono.m3u8?token=onlinetv"
+     ]
+    },
+    {
+     "name": "Bober (576p)",
+     "urls": [
+      "http://88.212.15.50/live/test_bober/playlist.m3u8",
+      "https://fs.uplink.kz/bober/mono.m3u8?token=onlinetv"
+     ]
+    },
+    {
+     "name": "Boks TV (576p)",
+     "urls": [
+      "http://stream.mcquack.net/154/index.m3u8"
+     ]
+    },
+    {
+     "name": "BRIDGE (576p)",
+     "urls": [
+      "http://178.134.1.158:8081/BRIDGE/index.m3u8",
+      "http://194.143.148.28:8080/RT_DOC/index.m3u8",
+      "http://stream.mcquack.net/318/index.m3u8"
+     ]
+    },
+    {
+     "name": "BRIDGE Classic (576p)",
+     "urls": [
+      "http://5.188.159.128:8070/Bridge_TV_Classic/index.m3u8",
+      "http://stream.mcquack.net/272/index.m3u8",
+      "https://fs.uplink.kz/bridge_classic/mono.m3u8?token=onlinetv"
+     ]
+    },
+    {
+     "name": "BRIDGE Deluxe HD (576p)",
+     "urls": [
+      "http://stream.mcquack.net/92/index.m3u8"
+     ]
+    },
+    {
+     "name": "BRIDGE Hits (576p)",
+     "urls": [
+      "http://5.188.159.128:8070/Bridge_TV_Hits/index.m3u8"
+     ]
+    }
+   ]
   }
  ],
  "parses": [],
@@ -1834,7 +4307,7 @@
  "header": {},
  "wallpaper": "",
  "rules": [],
- "_generated_at": "2026-11-17 02:55:07 UTC",
+ "_generated_at": "2026-11-18 02:25:02 UTC",
  "_generator": "build_config.py",
  "_site_count": 22
 }
