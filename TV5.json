@@ -2234,12 +2234,6 @@
      ]
     },
     {
-     "name": "Adjarasport 1",
-     "urls": [
-      "https://live20.bozztv.com/dvrfl05/gin-adjara/index.m3u8"
-     ]
-    },
-    {
      "name": "Al Iraqia Sport (720p)",
      "urls": [
       "https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8"
@@ -2372,12 +2366,6 @@
      ]
     },
     {
-     "name": "Barca TV",
-     "urls": [
-      "https://live20.bozztv.com/dvrfl06/astv/astv-barca/index.m3u8"
-     ]
-    },
-    {
      "name": "beIN Sports 1",
      "urls": [
       "https://vg162.adcdsd123321.shop/7.m3u8"
@@ -2465,6 +2453,18 @@
      "name": "Billiard TV (1080p) [Geo-blocked]",
      "urls": [
       "https://pb-wm04vonaerv0k.akamaized.net/billi.m3u8"
+     ]
+    },
+    {
+     "name": "Boks TV (720p)",
+     "urls": [
+      "http://31.148.48.15/Boks_TV/index.m3u8"
+     ]
+    },
+    {
+     "name": "Brondby TV",
+     "urls": [
+      "https://jmp2.uk/plu-685029cda1e091e16ff57fc8.m3u8"
      ]
     }
    ]
@@ -2596,12 +2596,6 @@
      "name": "99TV (720p)",
      "urls": [
       "https://cdn.pishow.tv/ott/live/1211/master.m3u8"
-     ]
-    },
-    {
-     "name": "101tv Malaga",
-     "urls": [
-      "https://liveingesta318.cdnmedia.tv/101weblive/smil:malaga.smil/playlist.m3u8"
      ]
     },
     {
@@ -2770,6 +2764,12 @@
      "name": "ABC-TV Paraguay",
      "urls": [
       "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/7.m3u8"
+     ]
+    },
+    {
+     "name": "ABN Andhra Jyoti (1080p)",
+     "urls": [
+      "https://stream.ottlive.co.in/abnandhrajyothycdn/index.m3u8"
      ]
     }
    ]
@@ -4297,7 +4297,7 @@
  "header": {},
  "wallpaper": "",
  "rules": [],
- "_generated_at": "2026-11-21 01:27:42 UTC",
+ "_generated_at": "2026-11-22 00:19:46 UTC",
  "_generator": "build_config.py",
  "_site_count": 22
 }
