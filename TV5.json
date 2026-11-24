@@ -115,19 +115,19 @@
    "filterable": 1
   },
   {
-   "key": "HongNiu",
-   "name": "红牛资源",
+   "key": "HER",
+   "name": "黑木耳",
    "type": 1,
-   "api": "https://www.hongniuzy2.com/api.php/provide/vod/at/josn/",
+   "api": "https://api.yyzy-tv.vip/inc/apijson.php?ac=list",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
   },
   {
-   "key": "HER",
-   "name": "黑木耳",
+   "key": "HongNiu",
+   "name": "红牛资源",
    "type": 1,
-   "api": "https://api.yyzy-tv.vip/inc/apijson.php?ac=list",
+   "api": "https://www.hongniuzy2.com/api.php/provide/vod/at/josn/",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
@@ -2342,9 +2342,9 @@
      ]
     },
     {
-     "name": "Azteca Deportes Network (1080p)",
+     "name": "Azteca Deportes Network (720p)",
      "urls": [
-      "http://209.14.115.253:8081/azteca-deportes/index.m3u8"
+      "http://38.194.226.190:8000/play/a02r/index.m3u8"
      ]
     },
     {
@@ -2539,12 +2539,6 @@
      ]
     },
     {
-     "name": "22Scope News (1080p)",
-     "urls": [
-      "https://thelegitpro.in/HDlive/22scope/index.fmp4.m3u8"
-     ]
-    },
-    {
      "name": "24/7 Canal de Noticias (360p)",
      "urls": [
       "https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8"
@@ -2644,12 +2638,6 @@
      "name": "A Haber (1080p)",
      "urls": [
       "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber.m3u8"
-     ]
-    },
-    {
-     "name": "Aagaaz Times (1080p)",
-     "urls": [
-      "https://live1.ottlive.co.in/aagaaztimes/index.m3u8"
      ]
     },
     {
@@ -2770,6 +2758,18 @@
      "name": "ABN Andhra Jyoti (1080p)",
      "urls": [
       "https://stream.ottlive.co.in/abnandhrajyothycdn/index.m3u8"
+     ]
+    },
+    {
+     "name": "ABN News (1080p)",
+     "urls": [
+      "http://115.42.65.142:9981/stream/channelid/966869781"
+     ]
+    },
+    {
+     "name": "ABP Ananda (1080p)",
+     "urls": [
+      "https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ananda-livetv/master.m3u8"
      ]
     }
    ]
@@ -3873,22 +3873,14 @@
     {
      "name": ".black (576p)",
      "urls": [
-      "http://116.90.120.149:8000/play/a0s4/index.m3u8",
       "http://s1.merlive.am/black/index.m3u8",
       "http://stream.mcquack.net/263/index.m3u8"
-     ]
-    },
-    {
-     "name": ".black HD (1080p)",
-     "urls": [
-      "http://116.90.120.149:8000/play/a0ac/index.m3u8"
      ]
     },
     {
      "name": ".red (576p)",
      "urls": [
       "http://5.188.159.128:8070/RED/index.m3u8",
-      "http://116.90.120.149:8000/play/a0an/index.m3u8",
       "http://stream.mcquack.net/69/index.m3u8"
      ]
     },
@@ -3901,7 +3893,6 @@
     {
      "name": ".sci-fi (576p)",
      "urls": [
-      "http://116.90.120.149:8000/play/a0ao/index.m3u8",
       "http://stream.mcquack.net/180/index.m3u8"
      ]
     },
@@ -4012,7 +4003,21 @@
     {
      "name": "BRIDGE Classic (576p)",
      "urls": [
-      "http://5.188.159.128:8070/Bridge_TV_Classic/index.m3u8"
+      "http://5.188.159.128:8070/Bridge_TV_Classic/index.m3u8",
+      "http://stream.mcquack.net/272/index.m3u8",
+      "https://fs.uplink.kz/bridge_classic/mono.m3u8?token=onlinetv"
+     ]
+    },
+    {
+     "name": "BRIDGE Dance (720p) [Geo-blocked]",
+     "urls": [
+      "https://bridgemedia-hls.cdnvideo.ru/hls/live/6aff09f290affe00013a80a9/720p.m3u8"
+     ]
+    },
+    {
+     "name": "BRIDGE Deluxe HD (576p)",
+     "urls": [
+      "http://stream.mcquack.net/92/index.m3u8"
      ]
     }
    ]
@@ -4297,7 +4302,7 @@
  "header": {},
  "wallpaper": "",
  "rules": [],
- "_generated_at": "2026-11-23 00:49:10 UTC",
+ "_generated_at": "2026-11-24 04:44:41 UTC",
  "_generator": "build_config.py",
  "_site_count": 22
 }
