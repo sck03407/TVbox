@@ -2593,6 +2593,12 @@
      ]
     },
     {
+     "name": "101tv Malaga (720p) [Geo-blocked]",
+     "urls": [
+      "https://liveingesta318.cdnmedia.tv/101televisionlive/smil:malagaott.smil/playlist.m3u8"
+     ]
+    },
+    {
      "name": "360 (720p) [Not 24/7]",
      "urls": [
       "https://turkmedya-live.ercdn.net/tv360/tv360.m3u8"
@@ -2677,9 +2683,15 @@
      ]
     },
     {
-     "name": "ABC News (720p)",
+     "name": "ABC News (Australia) (720p)",
      "urls": [
       "https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8"
+     ]
+    },
+    {
+     "name": "ABC News (India) (1080p)",
+     "urls": [
+      "https://stream.ottlive.co.in/abcnews/index.m3u8"
      ]
     },
     {
@@ -2758,18 +2770,6 @@
      "name": "ABN Andhra Jyoti (1080p)",
      "urls": [
       "https://stream.ottlive.co.in/abnandhrajyothycdn/index.m3u8"
-     ]
-    },
-    {
-     "name": "ABN News (1080p)",
-     "urls": [
-      "http://115.42.65.142:9981/stream/channelid/966869781"
-     ]
-    },
-    {
-     "name": "ABP Ananda (1080p)",
-     "urls": [
-      "https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ananda-livetv/master.m3u8"
      ]
     }
    ]
@@ -4302,7 +4302,7 @@
  "header": {},
  "wallpaper": "",
  "rules": [],
- "_generated_at": "2026-11-25 03:32:29 UTC",
+ "_generated_at": "2026-11-26 02:48:22 UTC",
  "_generator": "build_config.py",
  "_site_count": 22
 }
