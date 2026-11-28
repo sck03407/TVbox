@@ -49,15 +49,6 @@
    "api": "http://154.219.117.232:9981/jacloudapi.php/provide/vod"
   },
   {
-   "key": "New5327",
-   "name": "创享影视",
-   "type": 1,
-   "api": "http://ys.cxkjg.cn/api/provide/vod",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1
-  },
-  {
    "key": "非凡资源",
    "name": "非凡资源",
    "type": 1,
@@ -3874,7 +3865,6 @@
     {
      "name": ".black (576p)",
      "urls": [
-      "http://s1.merlive.am/black/index.m3u8",
       "http://stream.mcquack.net/263/index.m3u8"
      ]
     },
@@ -4013,6 +4003,12 @@
      "urls": [
       "http://s7.merlive.am/BoxTV/index.m3u8",
       "http://stream.mcquack.net/154/index.m3u8"
+     ]
+    },
+    {
+     "name": "BRIDGE (576p)",
+     "urls": [
+      "http://178.134.1.158:8081/BRIDGE/index.m3u8"
      ]
     }
    ]
@@ -4297,7 +4293,7 @@
  "header": {},
  "wallpaper": "",
  "rules": [],
- "_generated_at": "2026-11-27 02:50:06 UTC",
+ "_generated_at": "2026-11-28 02:40:58 UTC",
  "_generator": "build_config.py",
- "_site_count": 22
+ "_site_count": 21
 }
